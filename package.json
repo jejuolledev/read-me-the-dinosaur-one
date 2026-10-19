@@ -1,0 +1,22 @@
+{
+  "name": "read-me-the-dinosaur-one",
+  "version": "0.1.0",
+  "description": "Alexa+ MCP server: a picture-book shelf a four-year-old can search by what's inside, read one page at a time, with \"Again!\" and a bookmark for tomorrow",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "start": "node src/server.js",
+    "build:data": "node scripts/build-data.mjs"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.1",
+    "express": "^5.3.0",
+    "zod": "^4.6.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jejuolledev/read-me-the-dinosaur-one.git"
+  }
+}

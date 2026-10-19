@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Read Me the Dinosaur One</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22%3E%3Ctext y=%22.9em%22 font-size=%2290%22%3E%F0%9F%93%96%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand">
+    <div class="logo" aria-hidden="true">📖</div>
+    <div>
+      <h1>Read Me the Dinosaur One</h1>
+      <p class="tag">A bookshelf a four-year-old can search by what's inside. "Again!" means that page, right now.</p>
+    </div>
+  </div>
+  <div class="badges">
+    <span class="badge" id="b-proto">MCP · connecting…</span>
+    <span class="badge" id="b-agent">Alexa's part · keyword router (no model)</span>
+  </div>
+</header>
+
+<main class="layout">
+  <section class="stage">
+    <div class="device" aria-label="Simulated Alexa+ screen device">
+      <div class="screen" id="screen">
+        <div class="idle" id="idle">
+          <div class="shelf-head"><span class="clock" id="clock">--:--</span><span class="shelf-title">Tonight's shelf</span></div>
+          <div class="shelf" id="shelf"></div>
+          <div class="hint">Try: <q>Alexa, read me the dinosaur one!</q></div>
+        </div>
+        <div class="heard hidden" id="heard"></div>
+        <div class="choices hidden" id="choices"></div>
+        <div class="page hidden" id="page">
+          <img id="page-img" alt="Page picture">
+          <div class="page-text">
+            <div class="page-head">
+              <span class="page-title" id="page-title"></span>
+              <span class="page-no" id="page-no"></span>
+              <span class="again-chip hidden" id="again-chip"></span>
+            </div>
+            <div class="en" id="page-en"></div>
+            <div class="ko" id="page-ko"></div>
+            <div class="voice-row">
+              <button type="button" class="voice" id="voice">▶ Hear the book's own voice (Korean)</button>
+              <span class="voice-note">narration synthesized by the publisher</span>
+            </div>
+            <div class="dots" id="dots"></div>
+          </div>
+        </div>
+        <div class="caption hidden" id="caption"></div>
+      </div>
+      <div class="lightbar" id="lightbar"></div>
+    </div>
+    <form class="ask" id="ask">
+      <button type="button" class="mic" id="mic" title="Hold to talk (Chrome)">🎤</button>
+      <input id="utter" autocomplete="off" placeholder="Say or type: “Alexa, read me the one with the whale”">
+      <button class="send" type="submit">Ask</button>
+    </form>
+    <div class="examples" id="examples"></div>
+  </section>
+
+  <aside class="side">
+    <div class="panel">
+      <h2>Home</h2>
+      <label>Listener (bookmark name) <input id="listener" value="home" maxlength="40"></label>
+      <label class="row"><input type="checkbox" id="speak" checked> Speak English pages (browser voice)</label>
+      <button type="button" class="small" id="new-night">New night (new MCP session)</button>
+    </div>
+    <div class="panel traffic">
+      <h2>MCP traffic <small>JSON-RPC over Streamable HTTP</small></h2>
+      <ol id="log"></ol>
+    </div>
+    <p class="credits" id="credits"></p>
+  </aside>
+</main>
+<audio id="narration" preload="none"></audio>
+<script type="module" src="app.js"></script>
+</body>
+</html>

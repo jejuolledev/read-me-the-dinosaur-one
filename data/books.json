@@ -1,0 +1,3018 @@
+{
+ "about": {
+  "publisher": "Dongwhamoa (MoaHub), sample picture books shown on dongwhamoa.com",
+  "note": "Eleven sample books created by Dongwhamoa for its public shelf. Text, pictures and narration were generated with AI tools and edited by Dongwhamoa; the child characters are invented. The English page text and tags were written by hand for this project.",
+  "narration": "Korean narration synthesized with an on-device text-to-speech model; sentence timestamps come from the same pipeline.",
+  "source_updated_at": "2026-10-06T13:15:01",
+  "built_at": "2026-10-19T20:30:03.001Z"
+ },
+ "books": [
+  {
+   "slug": "mori-ep01",
+   "title_ko": "모리와 졸린별의 밤",
+   "subtitle_ko": "하나, 둘, 깜빡",
+   "mood_ko": "잠자리·포근",
+   "title_en": "Mori and the Sleepy Star",
+   "one_line": "A little rabbit who cannot fall asleep carries a yawning baby star back up to the sky.",
+   "creatures": [
+    "rabbit",
+    "star"
+   ],
+   "themes": [
+    "bedtime",
+    "cannot sleep",
+    "sleepy",
+    "night",
+    "helping"
+   ],
+   "settings": [
+    "night",
+    "hill",
+    "burrow",
+    "sky"
+   ],
+   "colors": [
+    "purple"
+   ],
+   "cover": "/media/covers/mori-ep01.webp",
+   "cover_page": "/media/pages/mori-ep01/p00.jpg",
+   "end_page": "/media/pages/mori-ep01/p09.jpg",
+   "title_audio": {
+    "src": "/media/audio/mori-ep01-p0.mp3",
+    "duration": 2.58
+   },
+   "narration_minutes": 1.8,
+   "created_at": "2026-10-04T02:30:42",
+   "pages": [
+    {
+     "n": 1,
+     "ko": "밤이 깊었는데 모리는 잠이 오지 않았어요. 이불을 턱까지 끌어올리고 눈을 꼭 감아 봐도, 눈이 자꾸만 반짝 떠졌지요. “엄마, 잠이 안 와요.”",
+     "en": "It was late at night, but Mori couldn't fall asleep. He pulled the blanket up to his chin and squeezed his eyes shut, but they kept popping open. \"Mom, I can't sleep.\"",
+     "image": "/media/pages/mori-ep01/p01.jpg",
+     "audio": {
+      "src": "/media/audio/mori-ep01-p1.mp3",
+      "duration": 13.2,
+      "sentences": [
+       {
+        "text": "밤이 깊었는데 모리는 잠이 오지 않았어요.",
+        "start": 0.15,
+        "end": 3.65
+       },
+       {
+        "text": "이불을 턱까지 끌어올리고 눈을 꼭 감아 봐도, 눈이 자꾸만 반짝 떠졌지요.",
+        "start": 4,
+        "end": 10.92
+       },
+       {
+        "text": "“엄마, 잠이 안 와요.”",
+        "start": 11.27,
+        "end": 13.05
+       }
+      ]
+     }
+    },
+    {
+     "n": 2,
+     "ko": "그때 창밖 풀밭에서 무언가 깜빡, 깜빡 빛났어요. 모리는 별무늬 망토를 두르고 살금살금 굴 밖으로 나갔어요. “어? 저게 뭐지?”",
+     "en": "Then something out in the grass went blink, blink. Mori put on his star-patterned cape and tiptoed out of the burrow. \"Huh? What's that?\"",
+     "image": "/media/pages/mori-ep01/p02.jpg",
+     "audio": {
+      "src": "/media/audio/mori-ep01-p2.mp3",
+      "duration": 13.38,
+      "sentences": [
+       {
+        "text": "그때 창밖 풀밭에서 무언가 깜빡, 깜빡 빛났어요.",
+        "start": 0.15,
+        "end": 5.83
+       },
+       {
+        "text": "모리는 별무늬 망토를 두르고 살금살금 굴 밖으로 나갔어요.",
+        "start": 6.18,
+        "end": 11.52
+       },
+       {
+        "text": "“어? 저게 뭐지?”",
+        "start": 11.87,
+        "end": 13.23
+       }
+      ]
+     }
+    },
+    {
+     "n": 3,
+     "ko": "작은 빛이 둥실 떠올라 모리 앞에 섰어요. 하품하다 하늘에서 떨어진 아기 별, 졸린별이었어요. “하아암, 집에 가고 싶은데 너무 졸려.”",
+     "en": "A tiny light floated up and stopped in front of Mori. It was a baby star who had yawned and tumbled out of the sky: the Sleepy Star. \"Yaaawn. I want to go home, but I'm so sleepy.\"",
+     "image": "/media/pages/mori-ep01/p03.jpg",
+     "audio": {
+      "src": "/media/audio/mori-ep01-p3.mp3",
+      "duration": 13.76,
+      "sentences": [
+       {
+        "text": "작은 빛이 둥실 떠올라 모리 앞에 섰어요.",
+        "start": 0.15,
+        "end": 3.67
+       },
+       {
+        "text": "하품하다 하늘에서 떨어진 아기 별, 졸린별이었어요.",
+        "start": 4.02,
+        "end": 8.78
+       },
+       {
+        "text": "“하아암, 집에 가고 싶은데 너무 졸려.”",
+        "start": 9.13,
+        "end": 13.61
+       }
+      ]
+     }
+    },
+    {
+     "n": 4,
+     "ko": "“내가 데려다줄게. 내 등에 업혀!” 모리는 졸린별을 업고 언덕을 올랐어요. 졸린별이 하품을 하면 깜빡, 길이 어두워졌다가 다시 환해졌어요.",
+     "en": "\"I'll take you home. Hop on my back!\" Mori carried the Sleepy Star up the hill. Every time the star yawned, the path went dark for a blink, then bright again.",
+     "image": "/media/pages/mori-ep01/p04.jpg",
+     "audio": {
+      "src": "/media/audio/mori-ep01-p4.mp3",
+      "duration": 13.6,
+      "sentences": [
+       {
+        "text": "“내가 데려다줄게. 내 등에 업혀!”",
+        "start": 0.15,
+        "end": 2.95
+       },
+       {
+        "text": "모리는 졸린별을 업고 언덕을 올랐어요.",
+        "start": 3.37,
+        "end": 6.97
+       },
+       {
+        "text": "졸린별이 하품을 하면 깜빡, 길이 어두워졌다가 다시 환해졌어요.",
+        "start": 7.39,
+        "end": 13.45
+       }
+      ]
+     }
+    },
+    {
+     "n": 5,
+     "ko": "영차, 영차. 드디어 언덕 꼭대기예요. 모리도 “하아암” 하품이 나왔어요. “졸린별아, 여기서라면 하늘까지 닿을 수 있겠어.”",
+     "en": "Heave-ho, heave-ho. At last, the top of the hill. Now Mori was yawning too. \"Sleepy Star, from up here you can reach the sky.\"",
+     "image": "/media/pages/mori-ep01/p05.jpg",
+     "audio": {
+      "src": "/media/audio/mori-ep01-p5.mp3",
+      "duration": 15.52,
+      "sentences": [
+       {
+        "text": "영차, 영차. 드디어 언덕 꼭대기예요.",
+        "start": 0.15,
+        "end": 5.79
+       },
+       {
+        "text": "모리도 “하아암” 하품이 나왔어요.",
+        "start": 6.21,
+        "end": 10.49
+       },
+       {
+        "text": "“졸린별아, 여기서라면 하늘까지 닿을 수 있겠어.”",
+        "start": 10.91,
+        "end": 15.37
+       }
+      ]
+     }
+    },
+    {
+     "n": 6,
+     "ko": "“하나, 둘, 깜빡!” 둘이 함께 세자 졸린별이 하늘로 둥실 떠올랐어요. 제자리로 돌아간 졸린별은 스르르 눈을 감았어요.",
+     "en": "\"One, two, blink!\" They counted together, and the Sleepy Star floated up into the sky. Back in its place, it slowly closed its eyes.",
+     "image": "/media/pages/mori-ep01/p06.jpg",
+     "audio": {
+      "src": "/media/audio/mori-ep01-p6.mp3",
+      "duration": 12.64,
+      "sentences": [
+       {
+        "text": "“하나, 둘, 깜빡!”",
+        "start": 0.15,
+        "end": 2.31
+       },
+       {
+        "text": "둘이 함께 세자 졸린별이 하늘로 둥실 떠올랐어요.",
+        "start": 2.81,
+        "end": 7.39
+       },
+       {
+        "text": "제자리로 돌아간 졸린별은 스르르 눈을 감았어요.",
+        "start": 7.89,
+        "end": 12.49
+       }
+      ]
+     }
+    },
+    {
+     "n": 7,
+     "ko": "“잘 자, 졸린별아.” 모리는 손을 흔들고 집으로 내려왔어요. 한 걸음 걸을 때마다 눈꺼풀이 조금씩, 조금씩 무거워졌어요.",
+     "en": "\"Good night, Sleepy Star.\" Mori waved and walked back home. With every step, his eyelids got a little heavier, and a little heavier.",
+     "image": "/media/pages/mori-ep01/p07.jpg",
+     "audio": {
+      "src": "/media/audio/mori-ep01-p7.mp3",
+      "duration": 12.03,
+      "sentences": [
+       {
+        "text": "“잘 자, 졸린별아.”",
+        "start": 0.15,
+        "end": 1.91
+       },
+       {
+        "text": "모리는 손을 흔들고 집으로 내려왔어요.",
+        "start": 2.41,
+        "end": 5.88
+       },
+       {
+        "text": "한 걸음 걸을 때마다 눈꺼풀이 조금씩, 조금씩 무거워졌어요.",
+        "start": 6.38,
+        "end": 11.88
+       }
+      ]
+     }
+    },
+    {
+     "n": 8,
+     "ko": "모리는 포근한 이불 속에 쏙 들어갔어요. “하나, 둘…” 깜빡을 세기도 전에 모리는 새근새근 잠이 들었답니다.",
+     "en": "Mori snuggled into his warm blanket. \"One, two...\" Before he could even count the blink, Mori was fast asleep.",
+     "image": "/media/pages/mori-ep01/p08.jpg",
+     "audio": {
+      "src": "/media/audio/mori-ep01-p8.mp3",
+      "duration": 11.27,
+      "sentences": [
+       {
+        "text": "모리는 포근한 이불 속에 쏙 들어갔어요.",
+        "start": 0.15,
+        "end": 3.87
+       },
+       {
+        "text": "“하나, 둘…” 깜빡을 세기도 전에 모리는 새근새근 잠이 들었답니다.",
+        "start": 4.47,
+        "end": 11.12
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "bangdol-ep01",
+   "title_ko": "달빛 빵집의 첫 손님",
+   "subtitle_ko": "더 크게, 뿌우!",
+   "mood_ko": "웃음·나눔",
+   "title_en": "The Moonlight Bakery's First Customer",
+   "one_line": "A bear baker makes one bread so big it fills the shop, and finds out what a biggest bread is really for.",
+   "creatures": [
+    "bear",
+    "raccoon",
+    "squirrel",
+    "rabbit"
+   ],
+   "themes": [
+    "sharing",
+    "bread",
+    "bakery",
+    "laughing",
+    "too big",
+    "friends",
+    "eating together"
+   ],
+   "settings": [
+    "bakery",
+    "moonlight",
+    "night"
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "cover": "/media/covers/bangdol-ep01.webp",
+   "cover_page": "/media/pages/bangdol-ep01/p00.jpg",
+   "end_page": "/media/pages/bangdol-ep01/p09.jpg",
+   "title_audio": {
+    "src": "/media/audio/bangdol-ep01-p0.mp3",
+    "duration": 2.18
+   },
+   "narration_minutes": 2,
+   "created_at": "2026-10-04T02:40:40",
+   "pages": [
+    {
+     "n": 1,
+     "ko": "달님이 뜨면 문을 여는 달빛 빵집. 오늘은 곰 제빵사 빵돌이가 처음 가게를 여는 밤이에요. 딸랑! 첫 손님 너구리가 들어왔어요. “제일 큰 빵 하나 주세요!”",
+     "en": "The Moonlight Bakery opens when the moon comes up. Tonight is bear baker Bbangdol's very first night. Ding-a-ling! The first customer, a raccoon, walked in. \"One biggest bread, please!\"",
+     "image": "/media/pages/bangdol-ep01/p01.jpg",
+     "audio": {
+      "src": "/media/audio/bangdol-ep01-p1.mp3",
+      "duration": 15.57,
+      "sentences": [
+       {
+        "text": "달님이 뜨면 문을 여는 달빛 빵집.",
+        "start": 0.15,
+        "end": 3.51
+       },
+       {
+        "text": "오늘은 곰 제빵사 빵돌이가 처음 가게를 여는 밤이에요.",
+        "start": 3.86,
+        "end": 9.36
+       },
+       {
+        "text": "딸랑! 첫 손님 너구리가 들어왔어요.",
+        "start": 9.71,
+        "end": 13.31
+       },
+       {
+        "text": "“제일 큰 빵 하나 주세요!”",
+        "start": 13.66,
+        "end": 15.42
+       }
+      ]
+     }
+    },
+    {
+     "n": 2,
+     "ko": "“제일 큰 빵이라고? 좋아, 맡겨 줘!” 빵돌이는 반죽을 쭈욱 늘렸어요. 너구리가 접시를 내밀었지만 어림도 없었지요. “에이, 접시가 너무 작은걸.”",
+     "en": "\"The biggest bread? You got it!\" Bbangdol stretched the dough out looong. The raccoon held out a plate, but it was nowhere near enough. \"Hmm, this plate is way too small.\"",
+     "image": "/media/pages/bangdol-ep01/p02.jpg",
+     "audio": {
+      "src": "/media/audio/bangdol-ep01-p2.mp3",
+      "duration": 14.11,
+      "sentences": [
+       {
+        "text": "“제일 큰 빵이라고? 좋아, 맡겨 줘!”",
+        "start": 0.15,
+        "end": 3.19
+       },
+       {
+        "text": "빵돌이는 반죽을 쭈욱 늘렸어요.",
+        "start": 3.54,
+        "end": 6.6
+       },
+       {
+        "text": "너구리가 접시를 내밀었지만 어림도 없었지요.",
+        "start": 6.95,
+        "end": 11.11
+       },
+       {
+        "text": "“에이, 접시가 너무 작은걸.”",
+        "start": 11.46,
+        "end": 13.96
+       }
+      ]
+     }
+    },
+    {
+     "n": 3,
+     "ko": "반죽은 부풀고 또 부풀었어요. 구경 온 다람쥐가 도토리 그릇을 내밀었어요. “여기에 담으면 어때요?” 빵돌이는 껄껄 웃었어요. “그건 더 작잖아!”",
+     "en": "The dough puffed up, and up, and up. A squirrel who had come to watch held out an acorn bowl. \"What about this?\" Bbangdol laughed out loud. \"That's even smaller!\"",
+     "image": "/media/pages/bangdol-ep01/p03.jpg",
+     "audio": {
+      "src": "/media/audio/bangdol-ep01-p3.mp3",
+      "duration": 14.9,
+      "sentences": [
+       {
+        "text": "반죽은 부풀고 또 부풀었어요.",
+        "start": 0.15,
+        "end": 3.35
+       },
+       {
+        "text": "구경 온 다람쥐가 도토리 그릇을 내밀었어요.",
+        "start": 3.7,
+        "end": 7.46
+       },
+       {
+        "text": "“여기에 담으면 어때요?”",
+        "start": 7.81,
+        "end": 9.53
+       },
+       {
+        "text": "빵돌이는 껄껄 웃었어요.",
+        "start": 9.88,
+        "end": 12.92
+       },
+       {
+        "text": "“그건 더 작잖아!”",
+        "start": 13.27,
+        "end": 14.75
+       }
+      ]
+     }
+    },
+    {
+     "n": 4,
+     "ko": "이번엔 토끼가 찻잔을 들고 왔어요. “그럼 여기는요?” 반죽은 벌써 작업대 밖으로 주르륵 흘러내리고 있었어요. “큰일이다, 점점 더 커져!”",
+     "en": "Next a rabbit came with a teacup. \"Then how about this?\" By now the dough was oozing right off the counter. \"Uh-oh, it's getting bigger and bigger!\"",
+     "image": "/media/pages/bangdol-ep01/p04.jpg",
+     "audio": {
+      "src": "/media/audio/bangdol-ep01-p4.mp3",
+      "duration": 12.61,
+      "sentences": [
+       {
+        "text": "이번엔 토끼가 찻잔을 들고 왔어요.",
+        "start": 0.15,
+        "end": 3.51
+       },
+       {
+        "text": "“그럼 여기는요?”",
+        "start": 3.86,
+        "end": 5
+       },
+       {
+        "text": "반죽은 벌써 작업대 밖으로 주르륵 흘러내리고 있었어요.",
+        "start": 5.35,
+        "end": 10.17
+       },
+       {
+        "text": "“큰일이다, 점점 더 커져!”",
+        "start": 10.52,
+        "end": 12.46
+       }
+      ]
+     }
+    },
+    {
+     "n": 5,
+     "ko": "빵돌이는 반죽을 화덕에 넣었어요. 그러자 빵이 뿌우, 뿌우우! 부풀고 부풀어서 가게를 가득 채웠어요. 친구들 눈이 동그래졌지요.",
+     "en": "Bbangdol slid the dough into the oven. Then the bread went poof, pooof! It puffed and puffed until it filled the whole shop. Everyone's eyes went round.",
+     "image": "/media/pages/bangdol-ep01/p05.jpg",
+     "audio": {
+      "src": "/media/audio/bangdol-ep01-p5.mp3",
+      "duration": 12.75,
+      "sentences": [
+       {
+        "text": "빵돌이는 반죽을 화덕에 넣었어요.",
+        "start": 0.15,
+        "end": 3.45
+       },
+       {
+        "text": "그러자 빵이 뿌우, 뿌우우!",
+        "start": 3.8,
+        "end": 5.88
+       },
+       {
+        "text": "부풀고 부풀어서 가게를 가득 채웠어요.",
+        "start": 6.23,
+        "end": 9.45
+       },
+       {
+        "text": "친구들 눈이 동그래졌지요.",
+        "start": 9.8,
+        "end": 12.6
+       }
+      ]
+     }
+    },
+    {
+     "n": 6,
+     "ko": "빵은 문밖까지 쑤욱 나와 버렸어요. “으아, 너무 커졌어!” 빵돌이가 끙끙대며 빵을 받쳤어요. 그때 너구리가 말했어요. “그럼 다 같이 먹으면 되잖아요!”",
+     "en": "The bread squeezed right out the door. \"Aaah, it's too big!\" Bbangdol groaned, holding it up. Then the raccoon said, \"So let's all eat it together!\"",
+     "image": "/media/pages/bangdol-ep01/p06.jpg",
+     "audio": {
+      "src": "/media/audio/bangdol-ep01-p6.mp3",
+      "duration": 16,
+      "sentences": [
+       {
+        "text": "빵은 문밖까지 쑤욱 나와 버렸어요.",
+        "start": 0.15,
+        "end": 4.21
+       },
+       {
+        "text": "“으아, 너무 커졌어!”",
+        "start": 4.56,
+        "end": 6.72
+       },
+       {
+        "text": "빵돌이가 끙끙대며 빵을 받쳤어요.",
+        "start": 7.07,
+        "end": 10.29
+       },
+       {
+        "text": "그때 너구리가 말했어요.",
+        "start": 10.64,
+        "end": 13.2
+       },
+       {
+        "text": "“그럼 다 같이 먹으면 되잖아요!”",
+        "start": 13.55,
+        "end": 15.85
+       }
+      ]
+     }
+    },
+    {
+     "n": 7,
+     "ko": "“그래, 그거야!” 빵돌이는 따끈한 빵을 뚝뚝 뜯어 친구들에게 나눠 주었어요. 너구리도 한 입, 다람쥐도 한 입, 토끼도 한 입. “와, 맛있다!”",
+     "en": "\"Yes, that's it!\" Bbangdol tore off warm pieces and handed them around. A bite for the raccoon, a bite for the squirrel, a bite for the rabbit. \"Wow, delicious!\"",
+     "image": "/media/pages/bangdol-ep01/p07.jpg",
+     "audio": {
+      "src": "/media/audio/bangdol-ep01-p7.mp3",
+      "duration": 14.22,
+      "sentences": [
+       {
+        "text": "“그래, 그거야!”",
+        "start": 0.15,
+        "end": 1.63
+       },
+       {
+        "text": "빵돌이는 따끈한 빵을 뚝뚝 뜯어 친구들에게 나눠 주었어요.",
+        "start": 1.98,
+        "end": 7.22
+       },
+       {
+        "text": "너구리도 한 입, 다람쥐도 한 입, 토끼도 한 입. “와, 맛있다!”",
+        "start": 7.57,
+        "end": 14.07
+       }
+      ]
+     }
+    },
+    {
+     "n": 8,
+     "ko": "달빛 아래 모두 둘러앉아 빵을 먹었어요. 제일 큰 빵은 혼자 먹는 빵이 아니라, 다 같이 먹는 빵이었어요. 빵돌이의 첫날 밤은 고소하게 깊어 갔답니다.",
+     "en": "Under the moonlight, everyone sat in a circle and ate. The biggest bread wasn't a bread for one. It was a bread for everyone. Bbangdol's first night smelled warm and toasty all the way to morning.",
+     "image": "/media/pages/bangdol-ep01/p08.jpg",
+     "audio": {
+      "src": "/media/audio/bangdol-ep01-p8.mp3",
+      "duration": 15.04,
+      "sentences": [
+       {
+        "text": "달빛 아래 모두 둘러앉아 빵을 먹었어요.",
+        "start": 0.15,
+        "end": 3.41
+       },
+       {
+        "text": "제일 큰 빵은 혼자 먹는 빵이 아니라, 다 같이 먹는 빵이었어요.",
+        "start": 3.76,
+        "end": 10.12
+       },
+       {
+        "text": "빵돌이의 첫날 밤은 고소하게 깊어 갔답니다.",
+        "start": 10.47,
+        "end": 14.89
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "owl-ep01",
+   "title_ko": "별의 도서관 탐험",
+   "subtitle_ko": "펼쳐, 펼쳐! 우산이 쑥",
+   "mood_ko": "호기심·발견",
+   "title_en": "Adventure in the Star Library",
+   "one_line": "A little squirrel asks the owl professor why it rains, and finds the answer by opening the wrong books first.",
+   "creatures": [
+    "owl",
+    "squirrel",
+    "fish"
+   ],
+   "themes": [
+    "why does it rain",
+    "curiosity",
+    "questions",
+    "books",
+    "clouds",
+    "umbrella",
+    "finding out yourself"
+   ],
+   "settings": [
+    "library"
+   ],
+   "colors": [
+    "blue"
+   ],
+   "cover": "/media/covers/owl-ep01.webp",
+   "cover_page": "/media/pages/owl-ep01/p00.jpg",
+   "end_page": "/media/pages/owl-ep01/p09.jpg",
+   "title_audio": {
+    "src": "/media/audio/owl-ep01-p0.mp3",
+    "duration": 1.92
+   },
+   "narration_minutes": 1.9,
+   "created_at": "2026-10-04T02:32:16",
+   "pages": [
+    {
+     "n": 1,
+     "ko": "별의 도서관에 꼬마 다람쥐가 찾아왔어요. “부엉이 박사님, 비는 왜 내려요?” 박사님은 안경을 고쳐 쓰며 빙그레 웃었어요. “글쎄, 어느 책에 답이 있을까?”",
+     "en": "A little squirrel came to the Star Library. \"Professor Owl, why does it rain?\" The professor straightened his glasses and smiled. \"Hmm, which book has the answer, I wonder?\"",
+     "image": "/media/pages/owl-ep01/p01.jpg",
+     "audio": {
+      "src": "/media/audio/owl-ep01-p1.mp3",
+      "duration": 15.79,
+      "sentences": [
+       {
+        "text": "별의 도서관에 꼬마 다람쥐가 찾아왔어요.",
+        "start": 0.15,
+        "end": 4.03
+       },
+       {
+        "text": "“부엉이 박사님, 비는 왜 내려요?”",
+        "start": 4.38,
+        "end": 7.34
+       },
+       {
+        "text": "박사님은 안경을 고쳐 쓰며 빙그레 웃었어요.",
+        "start": 7.69,
+        "end": 12.61
+       },
+       {
+        "text": "“글쎄, 어느 책에 답이 있을까?”",
+        "start": 12.96,
+        "end": 15.64
+       }
+      ]
+     }
+    },
+    {
+     "n": 2,
+     "ko": "박사님이 사다리를 붙잡아 주었어요. 꼬마 다람쥐는 영차영차 올라가 책 한 권을 골랐어요. “이 책이다! 펼쳐, 펼쳐!”",
+     "en": "The professor held the ladder steady. The little squirrel climbed up, heave-ho, and picked out a book. \"This one! Open, open!\"",
+     "image": "/media/pages/owl-ep01/p02.jpg",
+     "audio": {
+      "src": "/media/audio/owl-ep01-p2.mp3",
+      "duration": 12.1,
+      "sentences": [
+       {
+        "text": "박사님이 사다리를 붙잡아 주었어요.",
+        "start": 0.15,
+        "end": 3.41
+       },
+       {
+        "text": "꼬마 다람쥐는 영차영차 올라가 책 한 권을 골랐어요.",
+        "start": 3.76,
+        "end": 8.8
+       },
+       {
+        "text": "“이 책이다! 펼쳐, 펼쳐!”",
+        "start": 9.15,
+        "end": 11.95
+       }
+      ]
+     }
+    },
+    {
+     "n": 3,
+     "ko": "책을 펼치자 종이 물고기가 폴짝 튀어나와 박사님 안경에 뽀뽀를 했어요. “어, 물고기 책이네!” 물고기 이야기는 재미있었지만, 비 이야기는 없었어요.",
+     "en": "When the book opened, a paper fish leapt out and kissed the professor's glasses. \"Oh, it's a fish book!\" The fish story was fun, but there was nothing about rain.",
+     "image": "/media/pages/owl-ep01/p03.jpg",
+     "audio": {
+      "src": "/media/audio/owl-ep01-p3.mp3",
+      "duration": 14.76,
+      "sentences": [
+       {
+        "text": "책을 펼치자 종이 물고기가 폴짝 튀어나와 박사님 안경에 뽀뽀를 했어요.",
+        "start": 0.15,
+        "end": 6.87
+       },
+       {
+        "text": "“어, 물고기 책이네!”",
+        "start": 7.22,
+        "end": 9.04
+       },
+       {
+        "text": "물고기 이야기는 재미있었지만, 비 이야기는 없었어요.",
+        "start": 9.39,
+        "end": 14.61
+       }
+      ]
+     }
+    },
+    {
+     "n": 4,
+     "ko": "“다음 책! 펼쳐, 펼쳐!” 이번엔 커다란 우산이 활짝 솟아올라 박사님 머리 위에 척 얹혔어요. 박사님이 껄껄 웃었어요. “허허, 비 올 때 쓰는 건 맞구나.”",
+     "en": "\"Next book! Open, open!\" This time a big umbrella sprang up and landed right on the professor's head. He chuckled. \"Well, you do use one when it rains.\"",
+     "image": "/media/pages/owl-ep01/p04.jpg",
+     "audio": {
+      "src": "/media/audio/owl-ep01-p4.mp3",
+      "duration": 15.25,
+      "sentences": [
+       {
+        "text": "“다음 책! 펼쳐, 펼쳐!”",
+        "start": 0.15,
+        "end": 2.59
+       },
+       {
+        "text": "이번엔 커다란 우산이 활짝 솟아올라 박사님 머리 위에 척 얹혔어요.",
+        "start": 2.94,
+        "end": 8.68
+       },
+       {
+        "text": "박사님이 껄껄 웃었어요.",
+        "start": 9.03,
+        "end": 11.67
+       },
+       {
+        "text": "“허허, 비 올 때 쓰는 건 맞구나.”",
+        "start": 12.02,
+        "end": 15.1
+       }
+      ]
+     }
+    },
+    {
+     "n": 5,
+     "ko": "꼬마 다람쥐는 우산을 들고 빙그르르 돌았어요. “비가 오면 우산을 써요. 그런데 비는 어디서 오는 걸까요?” 아직 답은 찾지 못했어요.",
+     "en": "The little squirrel twirled around with the umbrella. \"When it rains, you use an umbrella. But where does rain come from?\" No answer yet.",
+     "image": "/media/pages/owl-ep01/p05.jpg",
+     "audio": {
+      "src": "/media/audio/owl-ep01-p5.mp3",
+      "duration": 12.46,
+      "sentences": [
+       {
+        "text": "꼬마 다람쥐는 우산을 들고 빙그르르 돌았어요.",
+        "start": 0.15,
+        "end": 4.47
+       },
+       {
+        "text": "“비가 오면 우산을 써요. 그런데 비는 어디서 오는 걸까요?”",
+        "start": 4.82,
+        "end": 9.74
+       },
+       {
+        "text": "아직 답은 찾지 못했어요.",
+        "start": 10.09,
+        "end": 12.31
+       }
+      ]
+     }
+    },
+    {
+     "n": 6,
+     "ko": "꼬마 다람쥐는 구름 책갈피가 꽂힌 책을 찾아냈어요. “구름… 구름이다!” 둘은 머리를 맞대고 세 번째 책을 펼쳤어요. 펼쳐, 펼쳐!",
+     "en": "The little squirrel found a book with a cloud-shaped bookmark. \"A cloud. It's a cloud!\" Heads together, they opened the third book. Open, open!",
+     "image": "/media/pages/owl-ep01/p06.jpg",
+     "audio": {
+      "src": "/media/audio/owl-ep01-p6.mp3",
+      "duration": 13.64,
+      "sentences": [
+       {
+        "text": "꼬마 다람쥐는 구름 책갈피가 꽂힌 책을 찾아냈어요.",
+        "start": 0.15,
+        "end": 4.71
+       },
+       {
+        "text": "“구름… 구름이다!”",
+        "start": 5.06,
+        "end": 6.66
+       },
+       {
+        "text": "둘은 머리를 맞대고 세 번째 책을 펼쳤어요. 펼쳐, 펼쳐!",
+        "start": 7.01,
+        "end": 13.49
+       }
+      ]
+     }
+    },
+    {
+     "n": 7,
+     "ko": "책 속에서 작은 물방울들이 하늘로 올라가 구름이 되었어요. 구름이 무거워지자 물방울이 톡, 톡 떨어졌지요. “알았다! 구름이 무거워지면 비가 내려요!”",
+     "en": "Inside the book, tiny water drops rose up into the sky and turned into a cloud. When the cloud got heavy, the drops fell. Drip, drip. \"I've got it! When a cloud gets heavy, it rains!\"",
+     "image": "/media/pages/owl-ep01/p07.jpg",
+     "audio": {
+      "src": "/media/audio/owl-ep01-p7.mp3",
+      "duration": 13.2,
+      "sentences": [
+       {
+        "text": "책 속에서 작은 물방울들이 하늘로 올라가 구름이 되었어요.",
+        "start": 0.15,
+        "end": 5.01
+       },
+       {
+        "text": "구름이 무거워지자 물방울이 톡, 톡 떨어졌지요.",
+        "start": 5.36,
+        "end": 9.18
+       },
+       {
+        "text": "“알았다! 구름이 무거워지면 비가 내려요!”",
+        "start": 9.53,
+        "end": 13.05
+       }
+      ]
+     }
+    },
+    {
+     "n": 8,
+     "ko": "“스스로 찾아냈구나.” 박사님이 고개를 끄덕였어요. 꼬마 다람쥐는 책 세 권을 차곡차곡 쌓았어요. “박사님, 내일은 눈이 왜 내리는지 찾아볼래요!”",
+     "en": "\"You found it yourself,\" said the professor, nodding. The little squirrel stacked the three books neatly. \"Professor, tomorrow I'll find out why it snows!\"",
+     "image": "/media/pages/owl-ep01/p08.jpg",
+     "audio": {
+      "src": "/media/audio/owl-ep01-p8.mp3",
+      "duration": 14.07,
+      "sentences": [
+       {
+        "text": "“스스로 찾아냈구나.”",
+        "start": 0.15,
+        "end": 2.03
+       },
+       {
+        "text": "박사님이 고개를 끄덕였어요.",
+        "start": 2.38,
+        "end": 5.26
+       },
+       {
+        "text": "꼬마 다람쥐는 책 세 권을 차곡차곡 쌓았어요.",
+        "start": 5.61,
+        "end": 9.69
+       },
+       {
+        "text": "“박사님, 내일은 눈이 왜 내리는지 찾아볼래요!”",
+        "start": 10.04,
+        "end": 13.92
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "squirrel-ep01",
+   "title_ko": "무지개 다람쥐 가족의 하루",
+   "subtitle_ko": "도토 도시락이 최고!",
+   "mood_ko": "가족·축하",
+   "title_en": "The Rainbow Squirrel Family's Day Out",
+   "one_line": "Little Doto packs the picnic lunch all by himself, then watches everyone else carry it.",
+   "creatures": [
+    "squirrel",
+    "family"
+   ],
+   "themes": [
+    "a picnic",
+    "picnic",
+    "lunchbox",
+    "doing it myself",
+    "family",
+    "feeling left out",
+    "acorn",
+    "proud"
+   ],
+   "settings": [
+    "rainbow hill",
+    "outdoors"
+   ],
+   "colors": [
+    "rainbow"
+   ],
+   "cover": "/media/covers/squirrel-ep01.webp",
+   "cover_page": "/media/pages/squirrel-ep01/p00.jpg",
+   "end_page": "/media/pages/squirrel-ep01/p09.jpg",
+   "title_audio": {
+    "src": "/media/audio/squirrel-ep01-p0.mp3",
+    "duration": 2.84
+   },
+   "narration_minutes": 1.9,
+   "created_at": "2026-10-04T02:33:45",
+   "pages": [
+    {
+     "n": 1,
+     "ko": "오늘은 다람쥐 가족이 무지개 언덕으로 소풍 가는 날이에요. 막내 도토가 도시락통을 끌어안으며 말했어요. “오늘 도시락은 내가 쌀래! 나 혼자서!”",
+     "en": "Today the squirrel family is going on a picnic to Rainbow Hill. Doto, the littlest, hugged the lunchbox. \"I'll pack the lunch today! All by myself!\"",
+     "image": "/media/pages/squirrel-ep01/p01.jpg",
+     "audio": {
+      "src": "/media/audio/squirrel-ep01-p1.mp3",
+      "duration": 12.49,
+      "sentences": [
+       {
+        "text": "오늘은 다람쥐 가족이 무지개 언덕으로 소풍 가는 날이에요.",
+        "start": 0.15,
+        "end": 4.95
+       },
+       {
+        "text": "막내 도토가 도시락통을 끌어안으며 말했어요.",
+        "start": 5.3,
+        "end": 9.04
+       },
+       {
+        "text": "“오늘 도시락은 내가 쌀래! 나 혼자서!”",
+        "start": 9.39,
+        "end": 12.34
+       }
+      ]
+     }
+    },
+    {
+     "n": 2,
+     "ko": "그런데 도토리 하나가 데굴데굴 굴러가더니, 잼 그릇에 퐁당! 식탁이 온통 잼투성이가 됐어요. 도토는 깔깔 웃었어요. “도토리가 먼저 잼을 먹었네!”",
+     "en": "But one acorn rolled away and, plop! Right into the jam bowl. The whole table was covered in jam. Doto giggled. \"The acorn ate the jam first!\"",
+     "image": "/media/pages/squirrel-ep01/p02.jpg",
+     "audio": {
+      "src": "/media/audio/squirrel-ep01-p2.mp3",
+      "duration": 17.26,
+      "sentences": [
+       {
+        "text": "그런데 도토리 하나가 데굴데굴 굴러가더니, 잼 그릇에 퐁당!",
+        "start": 0.15,
+        "end": 7.33
+       },
+       {
+        "text": "식탁이 온통 잼투성이가 됐어요.",
+        "start": 7.68,
+        "end": 11.64
+       },
+       {
+        "text": "도토는 깔깔 웃었어요.",
+        "start": 11.99,
+        "end": 14.67
+       },
+       {
+        "text": "“도토리가 먼저 잼을 먹었네!”",
+        "start": 15.02,
+        "end": 17.11
+       }
+      ]
+     }
+    },
+    {
+     "n": 3,
+     "ko": "도토는 도토리를 닦고, 빵을 꾹꾹 눌러 담았어요. 삐뚤빼뚤하지만 정성껏 싼 도시락이에요. “아빠, 다 됐어요! 내가 다 쌌어요!”",
+     "en": "Doto wiped off the acorn and pressed the bread in tight. Crooked, but packed with care. \"Dad, it's done! I packed it all myself!\"",
+     "image": "/media/pages/squirrel-ep01/p03.jpg",
+     "audio": {
+      "src": "/media/audio/squirrel-ep01-p3.mp3",
+      "duration": 12.51,
+      "sentences": [
+       {
+        "text": "도토는 도토리를 닦고, 빵을 꾹꾹 눌러 담았어요.",
+        "start": 0.15,
+        "end": 4.87
+       },
+       {
+        "text": "삐뚤빼뚤하지만 정성껏 싼 도시락이에요.",
+        "start": 5.22,
+        "end": 8.9
+       },
+       {
+        "text": "“아빠, 다 됐어요! 내가 다 쌌어요!”",
+        "start": 9.25,
+        "end": 12.36
+       }
+      ]
+     }
+    },
+    {
+     "n": 4,
+     "ko": "가족은 무지개 언덕으로 출발했어요. “도시락이 무겁지? 엄마가 들어 줄게.” 도시락은 아빠 손에서 엄마 손으로 넘어갔어요. 도토는 자꾸 도시락만 쳐다보았어요.",
+     "en": "The family set off for Rainbow Hill. \"That's heavy, isn't it? Mom will carry it.\" The lunchbox went from Dad's hands to Mom's. Doto kept looking at the lunchbox.",
+     "image": "/media/pages/squirrel-ep01/p04.jpg",
+     "audio": {
+      "src": "/media/audio/squirrel-ep01-p4.mp3",
+      "duration": 15.67,
+      "sentences": [
+       {
+        "text": "가족은 무지개 언덕으로 출발했어요.",
+        "start": 0.15,
+        "end": 3.35
+       },
+       {
+        "text": "“도시락이 무겁지? 엄마가 들어 줄게.”",
+        "start": 3.7,
+        "end": 6.5
+       },
+       {
+        "text": "도시락은 아빠 손에서 엄마 손으로 넘어갔어요.",
+        "start": 6.85,
+        "end": 11.81
+       },
+       {
+        "text": "도토는 자꾸 도시락만 쳐다보았어요.",
+        "start": 12.16,
+        "end": 15.52
+       }
+      ]
+     }
+    },
+    {
+     "n": 5,
+     "ko": "엄마 손에서 이번엔 누나 손으로. 도토는 텅 빈 두 손을 내려다보았어요. ‘내가 싼 도시락인데…’ 도토의 꼬리가 축 처졌어요.",
+     "en": "From Mom's hands to big sister's. Doto looked down at two empty paws. \"But I'm the one who packed it.\" Doto's tail drooped.",
+     "image": "/media/pages/squirrel-ep01/p05.jpg",
+     "audio": {
+      "src": "/media/audio/squirrel-ep01-p5.mp3",
+      "duration": 12.56,
+      "sentences": [
+       {
+        "text": "엄마 손에서 이번엔 누나 손으로.",
+        "start": 0.15,
+        "end": 3.29
+       },
+       {
+        "text": "도토는 텅 빈 두 손을 내려다보았어요.",
+        "start": 3.64,
+        "end": 7.46
+       },
+       {
+        "text": "‘내가 싼 도시락인데…’ 도토의 꼬리가 축 처졌어요.",
+        "start": 7.81,
+        "end": 12.41
+       }
+      ]
+     }
+    },
+    {
+     "n": 6,
+     "ko": "언덕에 돗자리를 펴자 누나가 도시락을 내밀었어요. “이건 도토가 싼 거니까, 도토가 열어야지!” 도토의 얼굴이 환해졌어요. “응! 내가 열게!”",
+     "en": "On the hill they spread the blanket, and big sister held out the lunchbox. \"Doto packed it, so Doto should open it!\" Doto's face lit up. \"Yes! I'll open it!\"",
+     "image": "/media/pages/squirrel-ep01/p06.jpg",
+     "audio": {
+      "src": "/media/audio/squirrel-ep01-p6.mp3",
+      "duration": 13.25,
+      "sentences": [
+       {
+        "text": "언덕에 돗자리를 펴자 누나가 도시락을 내밀었어요.",
+        "start": 0.15,
+        "end": 4.67
+       },
+       {
+        "text": "“이건 도토가 싼 거니까, 도토가 열어야지!”",
+        "start": 5.02,
+        "end": 8.34
+       },
+       {
+        "text": "도토의 얼굴이 환해졌어요.",
+        "start": 8.69,
+        "end": 11.01
+       },
+       {
+        "text": "“응! 내가 열게!”",
+        "start": 11.36,
+        "end": 13.1
+       }
+      ]
+     }
+    },
+    {
+     "n": 7,
+     "ko": "짜잔! 도토가 뚜껑을 활짝 열었어요. 아빠도 한 입, 엄마도 한 입, 누나도 한 입. “음, 도토 도시락이 최고야!” 도토의 어깨가 으쓱 올라갔어요.",
+     "en": "Ta-da! Doto flipped the lid open. A bite for Dad, a bite for Mom, a bite for sister. \"Mmm, Doto's lunch is the best!\" Doto's shoulders went up with pride.",
+     "image": "/media/pages/squirrel-ep01/p07.jpg",
+     "audio": {
+      "src": "/media/audio/squirrel-ep01-p7.mp3",
+      "duration": 16.19,
+      "sentences": [
+       {
+        "text": "짜잔! 도토가 뚜껑을 활짝 열었어요.",
+        "start": 0.15,
+        "end": 4.55
+       },
+       {
+        "text": "아빠도 한 입, 엄마도 한 입, 누나도 한 입.",
+        "start": 4.9,
+        "end": 9.74
+       },
+       {
+        "text": "“음, 도토 도시락이 최고야!”",
+        "start": 10.09,
+        "end": 12.89
+       },
+       {
+        "text": "도토의 어깨가 으쓱 올라갔어요.",
+        "start": 13.24,
+        "end": 16.04
+       }
+      ]
+     }
+    },
+    {
+     "n": 8,
+     "ko": "무지개 아래에서 가족은 도시락을 나눠 먹었어요. 도토는 마지막 도토리를 누나 손에 쏙 올려 주었어요. “누나, 다음 소풍 도시락도 내가 쌀게!”",
+     "en": "Under the rainbow, the family shared the lunch. Doto put the very last acorn into big sister's paw. \"Next picnic, I'll pack the lunch again!\"",
+     "image": "/media/pages/squirrel-ep01/p08.jpg",
+     "audio": {
+      "src": "/media/audio/squirrel-ep01-p8.mp3",
+      "duration": 12.61,
+      "sentences": [
+       {
+        "text": "무지개 아래에서 가족은 도시락을 나눠 먹었어요.",
+        "start": 0.15,
+        "end": 4.23
+       },
+       {
+        "text": "도토는 마지막 도토리를 누나 손에 쏙 올려 주었어요.",
+        "start": 4.58,
+        "end": 9.24
+       },
+       {
+        "text": "“누나, 다음 소풍 도시락도 내가 쌀게!”",
+        "start": 9.59,
+        "end": 12.46
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "luna-ep01",
+   "title_ko": "꿈꾸는 고래 루나와 두려움이",
+   "subtitle_ko": "지느러미 밑의 작은 자리",
+   "mood_ko": "위로·마음",
+   "title_en": "Luna the Dreaming Whale and Little Fear",
+   "one_line": "A baby whale who is scared of the deep sea learns the name of the shadow that keeps following her.",
+   "creatures": [
+    "whale",
+    "fish",
+    "shadow"
+   ],
+   "themes": [
+    "being scared",
+    "fear",
+    "scared",
+    "courage",
+    "being brave",
+    "the dark",
+    "deep sea",
+    "seashell",
+    "feelings"
+   ],
+   "settings": [
+    "ocean",
+    "deep sea",
+    "underwater"
+   ],
+   "colors": [
+    "blue"
+   ],
+   "cover": "/media/covers/luna-ep01.webp",
+   "cover_page": "/media/pages/luna-ep01/p00.jpg",
+   "end_page": "/media/pages/luna-ep01/p09.jpg",
+   "title_audio": {
+    "src": "/media/audio/luna-ep01-p0.mp3",
+    "duration": 3.12
+   },
+   "narration_minutes": 1.9,
+   "created_at": "2026-10-04T02:33:49",
+   "pages": [
+    {
+     "n": 1,
+     "ko": "아기 고래 루나는 깊은 바다 밑의 반짝이는 것을 보러 가고 싶었어요. 하지만 아래는 너무 깊고 캄캄했지요. 그럴 때면 꼭 작은 그림자 물고기가 따라왔어요.",
+     "en": "Luna the baby whale wanted to see the sparkly thing at the bottom of the deep sea. But down there it was so deep and so dark. And every time, a little shadow fish followed her.",
+     "image": "/media/pages/luna-ep01/p01.jpg",
+     "audio": {
+      "src": "/media/audio/luna-ep01-p1.mp3",
+      "duration": 14.38,
+      "sentences": [
+       {
+        "text": "아기 고래 루나는 깊은 바다 밑의 반짝이는 것을 보러 가고 싶었어요.",
+        "start": 0.15,
+        "end": 5.79
+       },
+       {
+        "text": "하지만 아래는 너무 깊고 캄캄했지요.",
+        "start": 6.14,
+        "end": 9.48
+       },
+       {
+        "text": "그럴 때면 꼭 작은 그림자 물고기가 따라왔어요.",
+        "start": 9.83,
+        "end": 14.23
+       }
+      ]
+     }
+    },
+    {
+     "n": 2,
+     "ko": "“저리 가! 너만 오면 가슴이 콩닥거린단 말이야.” 루나는 지느러미로 물을 휘휘 저었어요. 그림자 물고기는 밀려났다가도 금세 다시 돌아왔어요.",
+     "en": "\"Go away! Whenever you come, my heart goes thump-thump.\" Luna swished the water with her fin. The shadow fish drifted off, then came right back.",
+     "image": "/media/pages/luna-ep01/p02.jpg",
+     "audio": {
+      "src": "/media/audio/luna-ep01-p2.mp3",
+      "duration": 13.3,
+      "sentences": [
+       {
+        "text": "“저리 가! 너만 오면 가슴이 콩닥거린단 말이야.”",
+        "start": 0.15,
+        "end": 4.35
+       },
+       {
+        "text": "루나는 지느러미로 물을 휘휘 저었어요.",
+        "start": 4.7,
+        "end": 7.96
+       },
+       {
+        "text": "그림자 물고기는 밀려났다가도 금세 다시 돌아왔어요.",
+        "start": 8.31,
+        "end": 13.15
+       }
+      ]
+     }
+    },
+    {
+     "n": 3,
+     "ko": "루나는 가만히 그림자 물고기를 들여다보았어요. 조그맣고, 눈이 동그랗고, 어쩐지 떨고 있는 것 같았어요. “너… 혹시 너도 무섭니?”",
+     "en": "Luna looked at the shadow fish closely. It was tiny, with round eyes, and it seemed to be shivering. \"Are you... are you scared too?\"",
+     "image": "/media/pages/luna-ep01/p03.jpg",
+     "audio": {
+      "src": "/media/audio/luna-ep01-p3.mp3",
+      "duration": 13.14,
+      "sentences": [
+       {
+        "text": "루나는 가만히 그림자 물고기를 들여다보았어요.",
+        "start": 0.15,
+        "end": 4.35
+       },
+       {
+        "text": "조그맣고, 눈이 동그랗고, 어쩐지 떨고 있는 것 같았어요.",
+        "start": 4.7,
+        "end": 10.52
+       },
+       {
+        "text": "“너… 혹시 너도 무섭니?”",
+        "start": 10.87,
+        "end": 12.99
+       }
+      ]
+     }
+    },
+    {
+     "n": 4,
+     "ko": "그림자 물고기가 작게 끄덕였어요. “나는 두려움이야. 깊은 데가 무서워서 네 곁에 있고 싶었어.” 루나는 깜짝 놀랐어요. “나도 그래. 나도 깊은 데가 무서워.”",
+     "en": "The shadow fish gave a little nod. \"I'm Fear. The deep scares me, so I wanted to stay near you.\" Luna was surprised. \"Me too. I'm scared of the deep too.\"",
+     "image": "/media/pages/luna-ep01/p04.jpg",
+     "audio": {
+      "src": "/media/audio/luna-ep01-p4.mp3",
+      "duration": 14.18,
+      "sentences": [
+       {
+        "text": "그림자 물고기가 작게 끄덕였어요.",
+        "start": 0.15,
+        "end": 3.27
+       },
+       {
+        "text": "“나는 두려움이야. 깊은 데가 무서워서 네 곁에 있고 싶었어.”",
+        "start": 3.62,
+        "end": 8.03
+       },
+       {
+        "text": "루나는 깜짝 놀랐어요.",
+        "start": 8.38,
+        "end": 10.64
+       },
+       {
+        "text": "“나도 그래. 나도 깊은 데가 무서워.”",
+        "start": 10.99,
+        "end": 14.03
+       }
+      ]
+     }
+    },
+    {
+     "n": 5,
+     "ko": "“두려움아.” 루나가 처음으로 이름을 불러 주었어요. 그러자 두려움이는 스르르 작아져서 루나 곁에 바짝 붙었어요. 이상하게 가슴이 덜 콩닥거렸어요.",
+     "en": "\"Little Fear.\" Luna said its name out loud for the first time. And Fear shrank down small and snuggled right up next to her. Strangely, her heart thumped a little less.",
+     "image": "/media/pages/luna-ep01/p05.jpg",
+     "audio": {
+      "src": "/media/audio/luna-ep01-p5.mp3",
+      "duration": 13.74,
+      "sentences": [
+       {
+        "text": "“두려움아.” 루나가 처음으로 이름을 불러 주었어요.",
+        "start": 0.15,
+        "end": 4.39
+       },
+       {
+        "text": "그러자 두려움이는 스르르 작아져서 루나 곁에 바짝 붙었어요.",
+        "start": 4.74,
+        "end": 10.1
+       },
+       {
+        "text": "이상하게 가슴이 덜 콩닥거렸어요.",
+        "start": 10.45,
+        "end": 13.59
+       }
+      ]
+     }
+    },
+    {
+     "n": 6,
+     "ko": "“무서워도 괜찮아. 우리 같이 가 보자.” 루나는 지느러미를 살짝 들어 자리를 내주었어요. 저 아래에서 무언가 반짝, 반짝 빛나고 있었어요.",
+     "en": "\"It's okay to be scared. Let's go together.\" Luna lifted her fin a little to make room. Far below, something was twinkling, twinkling.",
+     "image": "/media/pages/luna-ep01/p06.jpg",
+     "audio": {
+      "src": "/media/audio/luna-ep01-p6.mp3",
+      "duration": 12.78,
+      "sentences": [
+       {
+        "text": "“무서워도 괜찮아. 우리 같이 가 보자.”",
+        "start": 0.15,
+        "end": 3.05
+       },
+       {
+        "text": "루나는 지느러미를 살짝 들어 자리를 내주었어요.",
+        "start": 3.4,
+        "end": 7.92
+       },
+       {
+        "text": "저 아래에서 무언가 반짝, 반짝 빛나고 있었어요.",
+        "start": 8.27,
+        "end": 12.63
+       }
+      ]
+     }
+    },
+    {
+     "n": 7,
+     "ko": "두려움이는 루나의 지느러미 밑으로 쏙 들어왔어요. 둘은 천천히, 아주 천천히 깊은 바다로 내려갔어요. 무서웠지만, 혼자가 아니었어요.",
+     "en": "Little Fear tucked itself under Luna's fin. Slowly, very slowly, the two of them went down into the deep. It was scary, but she wasn't alone.",
+     "image": "/media/pages/luna-ep01/p07.jpg",
+     "audio": {
+      "src": "/media/audio/luna-ep01-p7.mp3",
+      "duration": 14.04,
+      "sentences": [
+       {
+        "text": "두려움이는 루나의 지느러미 밑으로 쏙 들어왔어요.",
+        "start": 0.15,
+        "end": 4.73
+       },
+       {
+        "text": "둘은 천천히, 아주 천천히 깊은 바다로 내려갔어요.",
+        "start": 5.08,
+        "end": 10.36
+       },
+       {
+        "text": "무서웠지만, 혼자가 아니었어요.",
+        "start": 10.71,
+        "end": 13.89
+       }
+      ]
+     }
+    },
+    {
+     "n": 8,
+     "ko": "바다 밑에는 무지갯빛 조개껍데기가 반짝이고 있었어요. “와, 예쁘다!” 루나는 두려움이를 꼭 안아 주었어요. 두려움이와 함께라서 여기까지 올 수 있었답니다.",
+     "en": "At the bottom of the sea, a rainbow seashell was shining. \"Wow, it's beautiful!\" Luna hugged Little Fear tight. She had made it all the way here because Fear came along.",
+     "image": "/media/pages/luna-ep01/p08.jpg",
+     "audio": {
+      "src": "/media/audio/luna-ep01-p8.mp3",
+      "duration": 15.86,
+      "sentences": [
+       {
+        "text": "바다 밑에는 무지갯빛 조개껍데기가 반짝이고 있었어요.",
+        "start": 0.15,
+        "end": 5.13
+       },
+       {
+        "text": "“와, 예쁘다!” 루나는 두려움이를 꼭 안아 주었어요.",
+        "start": 5.48,
+        "end": 10.78
+       },
+       {
+        "text": "두려움이와 함께라서 여기까지 올 수 있었답니다.",
+        "start": 11.13,
+        "end": 15.71
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "seoa-cat-meal",
+   "title_ko": "고양이야 밥은 어디로",
+   "subtitle_ko": "하나 둘, 쌩! 꼬리부터 쏙",
+   "mood_ko": "밥 잘 먹기·웃음",
+   "title_en": "Kitty, Where Did Your Dinner Go?",
+   "one_line": "Seoa would rather play than eat, and so would the cat, until two empty tummies start to grumble.",
+   "creatures": [
+    "cat",
+    "kitty"
+   ],
+   "themes": [
+    "not wanting to eat",
+    "eating",
+    "picky eater",
+    "dinner",
+    "mealtime",
+    "playing first",
+    "spoon",
+    "hungry",
+    "laughing"
+   ],
+   "settings": [
+    "beach",
+    "seaside"
+   ],
+   "colors": [
+    "purple"
+   ],
+   "cover": "/media/covers/seoa-cat-meal.webp",
+   "cover_page": "/media/pages/seoa-cat-meal/p00.jpg",
+   "end_page": "/media/pages/seoa-cat-meal/p09.jpg",
+   "title_audio": {
+    "src": "/media/audio/seoa-cat-meal-p0.mp3",
+    "duration": 2.68
+   },
+   "narration_minutes": 1.8,
+   "created_at": "2026-10-04T02:09:48",
+   "pages": [
+    {
+     "n": 1,
+     "ko": "바닷가에 맛있는 밥상이 차려졌어요. 그런데 서아는 숟가락만 든 채 슬금슬금 일어났어요. “밥은 이따 먹을래. 지금은 놀고 싶단 말이야!”",
+     "en": "On the beach, a delicious dinner was laid out. But Seoa picked up her spoon and slowly stood up. \"I'll eat later. I want to play now!\"",
+     "image": "/media/pages/seoa-cat-meal/p01.jpg",
+     "audio": {
+      "src": "/media/audio/seoa-cat-meal-p1.mp3",
+      "duration": 13.3,
+      "sentences": [
+       {
+        "text": "바닷가에 맛있는 밥상이 차려졌어요.",
+        "start": 0.15,
+        "end": 3.27
+       },
+       {
+        "text": "그런데 서아는 숟가락만 든 채 슬금슬금 일어났어요.",
+        "start": 3.62,
+        "end": 8.86
+       },
+       {
+        "text": "“밥은 이따 먹을래. 지금은 놀고 싶단 말이야!”",
+        "start": 9.21,
+        "end": 13.15
+       }
+      ]
+     }
+    },
+    {
+     "n": 2,
+     "ko": "그때 고양이도 밥그릇 앞에서 홱 돌아섰어요. “하나 둘, 쌩!” 고양이가 달아났어요. 서아가 손가락을 들고 외쳤어요. “야옹아, 밥 먹어야지!”",
+     "en": "Then the cat turned away from its bowl too. \"One, two, zoom!\" Off ran the cat. Seoa pointed her finger and shouted, \"Kitty, you have to eat!\"",
+     "image": "/media/pages/seoa-cat-meal/p02.jpg",
+     "audio": {
+      "src": "/media/audio/seoa-cat-meal-p2.mp3",
+      "duration": 13.97,
+      "sentences": [
+       {
+        "text": "그때 고양이도 밥그릇 앞에서 홱 돌아섰어요.",
+        "start": 0.15,
+        "end": 3.83
+       },
+       {
+        "text": "“하나 둘, 쌩!” 고양이가 달아났어요.",
+        "start": 4.18,
+        "end": 7.82
+       },
+       {
+        "text": "서아가 손가락을 들고 외쳤어요.",
+        "start": 8.17,
+        "end": 11.35
+       },
+       {
+        "text": "“야옹아, 밥 먹어야지!”",
+        "start": 11.7,
+        "end": 13.82
+       }
+      ]
+     }
+    },
+    {
+     "n": 3,
+     "ko": "서아는 보라색 숟가락에 밥을 조금 떠서 내밀었어요. “자, 아~ 해 봐.” 고양이는 고개를 휙 돌렸어요. “흥, 나는 더 놀 거야!”",
+     "en": "Seoa scooped a little rice onto her purple spoon and held it out. \"Here, say ahh.\" The cat turned its head away. \"Humph, I'm going to play more!\"",
+     "image": "/media/pages/seoa-cat-meal/p03.jpg",
+     "audio": {
+      "src": "/media/audio/seoa-cat-meal-p3.mp3",
+      "duration": 12.84,
+      "sentences": [
+       {
+        "text": "서아는 보라색 숟가락에 밥을 조금 떠서 내밀었어요.",
+        "start": 0.15,
+        "end": 4.57
+       },
+       {
+        "text": "“자, 아~ 해 봐.” 고양이는 고개를 휙 돌렸어요.",
+        "start": 4.92,
+        "end": 9.56
+       },
+       {
+        "text": "“흥, 나는 더 놀 거야!”",
+        "start": 9.91,
+        "end": 12.69
+       }
+      ]
+     }
+    },
+    {
+     "n": 4,
+     "ko": "“하나 둘, 쌩!” 고양이는 밥상 둘레를 빙글빙글 돌았어요. 서아도 따라 빙글빙글. 모래 위에 발자국이 동그랗게 찍혔어요. “아이고, 어지러워!”",
+     "en": "\"One, two, zoom!\" The cat ran round and round the table. Seoa ran round and round after it. Their footprints made circles in the sand. \"Whoa, I'm dizzy!\"",
+     "image": "/media/pages/seoa-cat-meal/p04.jpg",
+     "audio": {
+      "src": "/media/audio/seoa-cat-meal-p4.mp3",
+      "duration": 15.73,
+      "sentences": [
+       {
+        "text": "“하나 둘, 쌩!” 고양이는 밥상 둘레를 빙글빙글 돌았어요.",
+        "start": 0.15,
+        "end": 6.11
+       },
+       {
+        "text": "서아도 따라 빙글빙글.",
+        "start": 6.46,
+        "end": 9.08
+       },
+       {
+        "text": "모래 위에 발자국이 동그랗게 찍혔어요.",
+        "start": 9.43,
+        "end": 13.43
+       },
+       {
+        "text": "“아이고, 어지러워!”",
+        "start": 13.78,
+        "end": 15.58
+       }
+      ]
+     }
+    },
+    {
+     "n": 5,
+     "ko": "한참 뛰었더니 배에서 꼬르륵 소리가 났어요. 서아는 의자에 털썩 앉았어요. “야옹아, 나 배고파. 너도 그렇지?” 고양이가 살금살금 다가왔어요.",
+     "en": "After all that running, their tummies went grumble. Seoa flopped down in her chair. \"Kitty, I'm hungry. You too, right?\" The cat crept closer.",
+     "image": "/media/pages/seoa-cat-meal/p05.jpg",
+     "audio": {
+      "src": "/media/audio/seoa-cat-meal-p5.mp3",
+      "duration": 15.99,
+      "sentences": [
+       {
+        "text": "한참 뛰었더니 배에서 꼬르륵 소리가 났어요.",
+        "start": 0.15,
+        "end": 4.47
+       },
+       {
+        "text": "서아는 의자에 털썩 앉았어요.",
+        "start": 4.82,
+        "end": 8.82
+       },
+       {
+        "text": "“야옹아, 나 배고파. 너도 그렇지?”",
+        "start": 9.17,
+        "end": 12.63
+       },
+       {
+        "text": "고양이가 살금살금 다가왔어요.",
+        "start": 12.98,
+        "end": 15.84
+       }
+      ]
+     }
+    },
+    {
+     "n": 6,
+     "ko": "서아는 밥을 한 숟갈 떠서 냠! “음, 맛있다!” 고양이도 숟가락을 번쩍 들었어요. 따라 먹어 볼 모양이에요.",
+     "en": "Seoa scooped up a spoonful and, yum! \"Mmm, delicious!\" The cat grabbed a spoon too. It looked like it wanted to copy her.",
+     "image": "/media/pages/seoa-cat-meal/p06.jpg",
+     "audio": {
+      "src": "/media/audio/seoa-cat-meal-p6.mp3",
+      "duration": 11.14,
+      "sentences": [
+       {
+        "text": "서아는 밥을 한 숟갈 떠서 냠!",
+        "start": 0.15,
+        "end": 2.53
+       },
+       {
+        "text": "“음, 맛있다!” 고양이도 숟가락을 번쩍 들었어요.",
+        "start": 2.88,
+        "end": 8.3
+       },
+       {
+        "text": "따라 먹어 볼 모양이에요.",
+        "start": 8.65,
+        "end": 10.99
+       }
+      ]
+     }
+    },
+    {
+     "n": 7,
+     "ko": "그런데 고양이가 숟가락을 거꾸로 물었지 뭐예요! 서아는 깔깔깔 웃음이 터졌어요. “아니야, 야옹아. 이쪽으로 먹는 거야!”",
+     "en": "But the cat put the spoon in its mouth backwards! Seoa burst out laughing. \"No, kitty, this way!\"",
+     "image": "/media/pages/seoa-cat-meal/p07.jpg",
+     "audio": {
+      "src": "/media/audio/seoa-cat-meal-p7.mp3",
+      "duration": 11.52,
+      "sentences": [
+       {
+        "text": "그런데 고양이가 숟가락을 거꾸로 물었지 뭐예요!",
+        "start": 0.15,
+        "end": 4.35
+       },
+       {
+        "text": "서아는 깔깔깔 웃음이 터졌어요.",
+        "start": 4.7,
+        "end": 7.52
+       },
+       {
+        "text": "“아니야, 야옹아. 이쪽으로 먹는 거야!”",
+        "start": 7.87,
+        "end": 11.37
+       }
+      ]
+     }
+    },
+    {
+     "n": 8,
+     "ko": "둘은 나란히 앉아 밥을 먹었어요. 한 숟갈 먹을 때마다 함께 외쳤지요. “하나 둘, 냠!” 놀고 나서 먹는 밥은 꿀맛이었답니다.",
+     "en": "The two sat side by side and ate. With every spoonful they shouted together, \"One, two, yum!\" Dinner after playing tasted as sweet as honey.",
+     "image": "/media/pages/seoa-cat-meal/p08.jpg",
+     "audio": {
+      "src": "/media/audio/seoa-cat-meal-p8.mp3",
+      "duration": 13.36,
+      "sentences": [
+       {
+        "text": "둘은 나란히 앉아 밥을 먹었어요.",
+        "start": 0.15,
+        "end": 3.51
+       },
+       {
+        "text": "한 숟갈 먹을 때마다 함께 외쳤지요.",
+        "start": 3.86,
+        "end": 7.16
+       },
+       {
+        "text": "“하나 둘, 냠!” 놀고 나서 먹는 밥은 꿀맛이었답니다.",
+        "start": 7.51,
+        "end": 13.21
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "yuna-whale-sibling",
+   "title_ko": "파랑 리본 끝에는",
+   "subtitle_ko": "고래와 기다린 빈 무릎",
+   "mood_ko": "동생 맞이·위로",
+   "title_en": "At the End of the Blue Ribbon",
+   "one_line": "A new baby arrives in a home up in space, and Yuna waits with her whale friend for her turn with Mom.",
+   "creatures": [
+    "whale",
+    "baby"
+   ],
+   "themes": [
+    "a new baby",
+    "new baby",
+    "little brother or sister",
+    "jealous",
+    "feeling left out",
+    "mom",
+    "ribbon",
+    "waiting",
+    "feelings"
+   ],
+   "settings": [
+    "space",
+    "outer space",
+    "home"
+   ],
+   "colors": [
+    "blue"
+   ],
+   "cover": "/media/covers/yuna-whale-sibling.webp",
+   "cover_page": "/media/pages/yuna-whale-sibling/p00.jpg",
+   "end_page": "/media/pages/yuna-whale-sibling/p09.jpg",
+   "title_audio": {
+    "src": "/media/audio/yuna-whale-sibling-p0.mp3",
+    "duration": 2.86
+   },
+   "narration_minutes": 1.7,
+   "created_at": "2026-10-04T02:35:06",
+   "pages": [
+    {
+     "n": 1,
+     "ko": "지구가 창밖으로 보이는 우주 집에 유나의 동생이 태어났어요. 엄마는 하루 종일 아기를 안고 있었지요. 유나는 엄마랑 리본 놀이를 하고 싶었는데 말이에요.",
+     "en": "In a home up in space, with Earth outside the window, a new baby was born into Yuna's family. Mom held the baby all day long. But Yuna wanted to play ribbon games with Mom.",
+     "image": "/media/pages/yuna-whale-sibling/p01.jpg",
+     "audio": {
+      "src": "/media/audio/yuna-whale-sibling-p1.mp3",
+      "duration": 13.94,
+      "sentences": [
+       {
+        "text": "지구가 창밖으로 보이는 우주 집에 유나의 동생이 태어났어요.",
+        "start": 0.15,
+        "end": 5.43
+       },
+       {
+        "text": "엄마는 하루 종일 아기를 안고 있었지요.",
+        "start": 5.78,
+        "end": 9
+       },
+       {
+        "text": "유나는 엄마랑 리본 놀이를 하고 싶었는데 말이에요.",
+        "start": 9.35,
+        "end": 13.79
+       }
+      ]
+     }
+    },
+    {
+     "n": 2,
+     "ko": "유나는 파랑 리본을 꼭 쥐고 돌아섰어요. ‘엄마는 이제 아기만 좋아하나 봐.’ 그때 고래 친구가 둥실둥실 다가왔어요.",
+     "en": "Yuna held her blue ribbon tight and turned away. \"Mom only likes the baby now.\" Then her whale friend came floating over.",
+     "image": "/media/pages/yuna-whale-sibling/p02.jpg",
+     "audio": {
+      "src": "/media/audio/yuna-whale-sibling-p2.mp3",
+      "duration": 11.14,
+      "sentences": [
+       {
+        "text": "유나는 파랑 리본을 꼭 쥐고 돌아섰어요.",
+        "start": 0.15,
+        "end": 3.67
+       },
+       {
+        "text": "‘엄마는 이제 아기만 좋아하나 봐.’",
+        "start": 4.02,
+        "end": 6.84
+       },
+       {
+        "text": "그때 고래 친구가 둥실둥실 다가왔어요.",
+        "start": 7.19,
+        "end": 10.99
+       }
+      ]
+     }
+    },
+    {
+     "n": 3,
+     "ko": "유나는 고래의 지느러미를 만지며 작게 말했어요. “엄마가 동생만 안아 줘서… 서운해.” 고래는 아무 말 없이 가만히 들어 주었어요.",
+     "en": "Yuna stroked the whale's fin and said softly, \"Mom only hugs the baby. It makes me sad.\" The whale said nothing and just listened.",
+     "image": "/media/pages/yuna-whale-sibling/p03.jpg",
+     "audio": {
+      "src": "/media/audio/yuna-whale-sibling-p3.mp3",
+      "duration": 13.08,
+      "sentences": [
+       {
+        "text": "유나는 고래의 지느러미를 만지며 작게 말했어요.",
+        "start": 0.15,
+        "end": 4.97
+       },
+       {
+        "text": "“엄마가 동생만 안아 줘서… 서운해.”",
+        "start": 5.32,
+        "end": 8.34
+       },
+       {
+        "text": "고래는 아무 말 없이 가만히 들어 주었어요.",
+        "start": 8.69,
+        "end": 12.93
+       }
+      ]
+     }
+    },
+    {
+     "n": 4,
+     "ko": "엄마가 아기를 침대에 살며시 눕혔어요. 그리고 유나에게 손을 내밀었어요. “유나야, 이리 올래?” 하지만 유나는 아직 마음이 뾰로통했어요.",
+     "en": "Mom laid the baby gently in the crib. Then she held out her hand to Yuna. \"Yuna, will you come here?\" But Yuna's heart was still in a pout.",
+     "image": "/media/pages/yuna-whale-sibling/p04.jpg",
+     "audio": {
+      "src": "/media/audio/yuna-whale-sibling-p4.mp3",
+      "duration": 13.23,
+      "sentences": [
+       {
+        "text": "엄마가 아기를 침대에 살며시 눕혔어요.",
+        "start": 0.15,
+        "end": 3.59
+       },
+       {
+        "text": "그리고 유나에게 손을 내밀었어요.",
+        "start": 3.94,
+        "end": 6.98
+       },
+       {
+        "text": "“유나야, 이리 올래?”",
+        "start": 7.33,
+        "end": 8.87
+       },
+       {
+        "text": "하지만 유나는 아직 마음이 뾰로통했어요.",
+        "start": 9.22,
+        "end": 13.08
+       }
+      ]
+     }
+    },
+    {
+     "n": 5,
+     "ko": "“서운했구나. 엄마가 유나를 오래 기다리게 했네.” 엄마는 재촉하지 않고 기다려 주었어요. 고래도 유나 곁에 가만히 있어 주었지요.",
+     "en": "\"You felt left out. Mom made you wait a long time.\" Mom didn't hurry her. She waited. The whale stayed quietly by Yuna's side too.",
+     "image": "/media/pages/yuna-whale-sibling/p05.jpg",
+     "audio": {
+      "src": "/media/audio/yuna-whale-sibling-p5.mp3",
+      "duration": 11.84,
+      "sentences": [
+       {
+        "text": "“서운했구나. 엄마가 유나를 오래 기다리게 했네.”",
+        "start": 0.15,
+        "end": 4.27
+       },
+       {
+        "text": "엄마는 재촉하지 않고 기다려 주었어요.",
+        "start": 4.62,
+        "end": 8.08
+       },
+       {
+        "text": "고래도 유나 곁에 가만히 있어 주었지요.",
+        "start": 8.43,
+        "end": 11.69
+       }
+      ]
+     }
+    },
+    {
+     "n": 6,
+     "ko": "유나는 한참 만에 리본 끝을 엄마에게 내밀었어요. “엄마, 이거… 같이 잡을래?” 엄마가 환하게 웃었어요. “그럼, 얼마나 잡고 싶었는데!”",
+     "en": "After a long while, Yuna held out the end of the ribbon to Mom. \"Mom, will you hold this with me?\" Mom smiled wide. \"Of course! I've been wanting to!\"",
+     "image": "/media/pages/yuna-whale-sibling/p06.jpg",
+     "audio": {
+      "src": "/media/audio/yuna-whale-sibling-p6.mp3",
+      "duration": 13.79,
+      "sentences": [
+       {
+        "text": "유나는 한참 만에 리본 끝을 엄마에게 내밀었어요.",
+        "start": 0.15,
+        "end": 4.53
+       },
+       {
+        "text": "“엄마, 이거… 같이 잡을래?”",
+        "start": 4.88,
+        "end": 7.7
+       },
+       {
+        "text": "엄마가 환하게 웃었어요.",
+        "start": 8.05,
+        "end": 10.31
+       },
+       {
+        "text": "“그럼, 얼마나 잡고 싶었는데!”",
+        "start": 10.66,
+        "end": 13.64
+       }
+      ]
+     }
+    },
+    {
+     "n": 7,
+     "ko": "엄마가 리본을 살살 당기자 유나가 둥실 떠서 엄마에게 다가갔어요. 리본 이쪽 끝에는 유나, 저쪽 끝에는 엄마가 있었어요.",
+     "en": "Mom tugged the ribbon gently, and Yuna floated over to her. At this end of the ribbon was Yuna. At the other end was Mom.",
+     "image": "/media/pages/yuna-whale-sibling/p07.jpg",
+     "audio": {
+      "src": "/media/audio/yuna-whale-sibling-p7.mp3",
+      "duration": 10.67,
+      "sentences": [
+       {
+        "text": "엄마가 리본을 살살 당기자 유나가 둥실 떠서 엄마에게 다가갔어요.",
+        "start": 0.15,
+        "end": 5.51
+       },
+       {
+        "text": "리본 이쪽 끝에는 유나, 저쪽 끝에는 엄마가 있었어요.",
+        "start": 5.86,
+        "end": 10.52
+       }
+      ]
+     }
+    },
+    {
+     "n": 8,
+     "ko": "유나는 엄마 품에 쏙 안겼어요. “동생이 생겨도 유나는 언제나 엄마의 보물이야.” 유나는 리본을 쥔 채 스르르 마음이 놓였답니다.",
+     "en": "Yuna snuggled into Mom's arms. \"Even with a baby here, you will always be Mom's treasure.\" Holding her ribbon, Yuna felt her heart settle down.",
+     "image": "/media/pages/yuna-whale-sibling/p08.jpg",
+     "audio": {
+      "src": "/media/audio/yuna-whale-sibling-p8.mp3",
+      "duration": 11.66,
+      "sentences": [
+       {
+        "text": "유나는 엄마 품에 쏙 안겼어요.",
+        "start": 0.15,
+        "end": 3.11
+       },
+       {
+        "text": "“동생이 생겨도 유나는 언제나 엄마의 보물이야.”",
+        "start": 3.46,
+        "end": 7.2
+       },
+       {
+        "text": "유나는 리본을 쥔 채 스르르 마음이 놓였답니다.",
+        "start": 7.55,
+        "end": 11.51
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "hayun-penguin-sleep",
+   "title_ko": "하윤의 이불 끝에는",
+   "subtitle_ko": "먼 눈언덕부터 잘 자",
+   "mood_ko": "혼자 자기·포근",
+   "title_en": "At the End of Hayun's Blanket",
+   "one_line": "A penguin shows Hayun that a dark room can be Snow Land, and that the moon watches over anyone sleeping alone.",
+   "creatures": [
+    "penguin"
+   ],
+   "themes": [
+    "sleeping alone",
+    "afraid of the dark",
+    "bedtime",
+    "lights off",
+    "moon",
+    "brave",
+    "own bed"
+   ],
+   "settings": [
+    "snow land",
+    "bedroom",
+    "night"
+   ],
+   "colors": [
+    "sky blue"
+   ],
+   "cover": "/media/covers/hayun-penguin-sleep.webp",
+   "cover_page": "/media/pages/hayun-penguin-sleep/p00.jpg",
+   "end_page": "/media/pages/hayun-penguin-sleep/p09.jpg",
+   "title_audio": {
+    "src": "/media/audio/hayun-penguin-sleep-p0.mp3",
+    "duration": 2.14
+   },
+   "narration_minutes": 1.8,
+   "created_at": "2026-10-04T02:35:05",
+   "pages": [
+    {
+     "n": 1,
+     "ko": "“엄마, 불 끄면 무서워.” 하윤이는 엄마 손을 꼭 잡았어요. 엄마가 속삭였어요. “눈을 감으면 펭귄이 눈나라로 데려다줄 거야. 엄마는 문밖에 있을게.”",
+     "en": "\"Mom, it's scary when the light goes off.\" Hayun held Mom's hand tight. Mom whispered, \"Close your eyes and a penguin will take you to Snow Land. Mom will be right outside the door.\"",
+     "image": "/media/pages/hayun-penguin-sleep/p01.jpg",
+     "audio": {
+      "src": "/media/audio/hayun-penguin-sleep-p1.mp3",
+      "duration": 14.07,
+      "sentences": [
+       {
+        "text": "“엄마, 불 끄면 무서워.”",
+        "start": 0.15,
+        "end": 2.53
+       },
+       {
+        "text": "하윤이는 엄마 손을 꼭 잡았어요.",
+        "start": 2.88,
+        "end": 5.68
+       },
+       {
+        "text": "엄마가 속삭였어요.",
+        "start": 6.03,
+        "end": 8.05
+       },
+       {
+        "text": "“눈을 감으면 펭귄이 눈나라로 데려다줄 거야. 엄마는 문밖에 있을게.”",
+        "start": 8.4,
+        "end": 13.92
+       }
+      ]
+     }
+    },
+    {
+     "n": 2,
+     "ko": "하윤이는 하늘색 이불을 쥐고 눈을 꼭 감았어요. 그러자 이불 끝이 스르르 펼쳐지더니, 하얀 눈나라가 되었어요. 펭귄이 뒤뚱뒤뚱 앞장섰지요.",
+     "en": "Hayun held her sky-blue blanket and squeezed her eyes shut. Then the end of the blanket unrolled and became a white Snow Land. A penguin waddled ahead.",
+     "image": "/media/pages/hayun-penguin-sleep/p02.jpg",
+     "audio": {
+      "src": "/media/audio/hayun-penguin-sleep-p2.mp3",
+      "duration": 13.92,
+      "sentences": [
+       {
+        "text": "하윤이는 하늘색 이불을 쥐고 눈을 꼭 감았어요.",
+        "start": 0.15,
+        "end": 4.51
+       },
+       {
+        "text": "그러자 이불 끝이 스르르 펼쳐지더니, 하얀 눈나라가 되었어요.",
+        "start": 4.86,
+        "end": 10.56
+       },
+       {
+        "text": "펭귄이 뒤뚱뒤뚱 앞장섰지요.",
+        "start": 10.91,
+        "end": 13.77
+       }
+      ]
+     }
+    },
+    {
+     "n": 3,
+     "ko": "눈나라에는 포근한 눈 동굴이 있었어요. “여기가 내 잠자리야.” 펭귄이 말했어요. 하윤이는 이불을 무릎에 덮고 동굴에 쏙 들어가 앉았어요.",
+     "en": "In Snow Land there was a cozy snow cave. \"This is where I sleep,\" said the penguin. Hayun pulled the blanket over her knees and sat down inside.",
+     "image": "/media/pages/hayun-penguin-sleep/p03.jpg",
+     "audio": {
+      "src": "/media/audio/hayun-penguin-sleep-p3.mp3",
+      "duration": 13.66,
+      "sentences": [
+       {
+        "text": "눈나라에는 포근한 눈 동굴이 있었어요.",
+        "start": 0.15,
+        "end": 4.07
+       },
+       {
+        "text": "“여기가 내 잠자리야.”",
+        "start": 4.42,
+        "end": 5.93
+       },
+       {
+        "text": "펭귄이 말했어요.",
+        "start": 6.28,
+        "end": 8.2
+       },
+       {
+        "text": "하윤이는 이불을 무릎에 덮고 동굴에 쏙 들어가 앉았어요.",
+        "start": 8.55,
+        "end": 13.51
+       }
+      ]
+     }
+    },
+    {
+     "n": 4,
+     "ko": "밖은 캄캄했지만, 달님이 환하게 비춰 주었어요. 하윤이는 먼 눈언덕을 향해 인사했어요. “눈언덕아, 잘 자아아.” 무서운 건 하나도 없었어요.",
+     "en": "Outside it was dark, but the moon shone bright. Hayun called out to the far snowy hill, \"Good niiight, snowy hill.\" There was nothing scary at all.",
+     "image": "/media/pages/hayun-penguin-sleep/p04.jpg",
+     "audio": {
+      "src": "/media/audio/hayun-penguin-sleep-p4.mp3",
+      "duration": 15.38,
+      "sentences": [
+       {
+        "text": "밖은 캄캄했지만, 달님이 환하게 비춰 주었어요.",
+        "start": 0.15,
+        "end": 4.57
+       },
+       {
+        "text": "하윤이는 먼 눈언덕을 향해 인사했어요.",
+        "start": 4.99,
+        "end": 9.21
+       },
+       {
+        "text": "“눈언덕아, 잘 자아아.”",
+        "start": 9.63,
+        "end": 11.93
+       },
+       {
+        "text": "무서운 건 하나도 없었어요.",
+        "start": 12.35,
+        "end": 15.23
+       }
+      ]
+     }
+    },
+    {
+     "n": 5,
+     "ko": "“펭귄아, 너는 혼자 자도 안 무서워?” “응, 눈을 감으면 달님이 지켜 주거든.” 하윤이는 고개를 끄덕였어요. “그럼 나도 해 볼래.”",
+     "en": "\"Penguin, aren't you scared sleeping alone?\" \"Nope. When I close my eyes, the moon watches over me.\" Hayun nodded. \"Then I'll try too.\"",
+     "image": "/media/pages/hayun-penguin-sleep/p05.jpg",
+     "audio": {
+      "src": "/media/audio/hayun-penguin-sleep-p5.mp3",
+      "duration": 11.57,
+      "sentences": [
+       {
+        "text": "“펭귄아, 너는 혼자 자도 안 무서워?”",
+        "start": 0.15,
+        "end": 3.27
+       },
+       {
+        "text": "“응, 눈을 감으면 달님이 지켜 주거든.”",
+        "start": 3.69,
+        "end": 6.54
+       },
+       {
+        "text": "하윤이는 고개를 끄덕였어요.",
+        "start": 6.96,
+        "end": 9.4
+       },
+       {
+        "text": "“그럼 나도 해 볼래.”",
+        "start": 9.82,
+        "end": 11.42
+       }
+      ]
+     }
+    },
+    {
+     "n": 6,
+     "ko": "하윤이는 눈 동굴에 누워 이불을 턱까지 덮었어요. 포근포근, 따뜻했어요. “잘 자, 펭귄아.” 하윤이가 작게 말했어요.",
+     "en": "Hayun lay down in the snow cave and pulled the blanket up to her chin. Soft and warm. \"Good night, penguin,\" Hayun said quietly.",
+     "image": "/media/pages/hayun-penguin-sleep/p06.jpg",
+     "audio": {
+      "src": "/media/audio/hayun-penguin-sleep-p6.mp3",
+      "duration": 13.05,
+      "sentences": [
+       {
+        "text": "하윤이는 눈 동굴에 누워 이불을 턱까지 덮었어요.",
+        "start": 0.15,
+        "end": 4.51
+       },
+       {
+        "text": "포근포근, 따뜻했어요.",
+        "start": 5.01,
+        "end": 7.83
+       },
+       {
+        "text": "“잘 자, 펭귄아.”",
+        "start": 8.33,
+        "end": 10.23
+       },
+       {
+        "text": "하윤이가 작게 말했어요.",
+        "start": 10.73,
+        "end": 12.9
+       }
+      ]
+     }
+    },
+    {
+     "n": 7,
+     "ko": "눈을 떠 보니 하윤이는 제 침대에 있었어요. 품에는 펭귄 인형이 꼭 안겨 있었지요. 문틈으로 엄마가 살짝 들여다보았어요.",
+     "en": "When she opened her eyes, Hayun was in her own bed. A penguin doll was tucked in her arms. Mom peeked in through the door.",
+     "image": "/media/pages/hayun-penguin-sleep/p07.jpg",
+     "audio": {
+      "src": "/media/audio/hayun-penguin-sleep-p7.mp3",
+      "duration": 12.53,
+      "sentences": [
+       {
+        "text": "눈을 떠 보니 하윤이는 제 침대에 있었어요.",
+        "start": 0.15,
+        "end": 4.55
+       },
+       {
+        "text": "품에는 펭귄 인형이 꼭 안겨 있었지요.",
+        "start": 5.05,
+        "end": 8.41
+       },
+       {
+        "text": "문틈으로 엄마가 살짝 들여다보았어요.",
+        "start": 8.91,
+        "end": 12.38
+       }
+      ]
+     }
+    },
+    {
+     "n": 8,
+     "ko": "하윤이는 혼자서도 새근새근 잠이 들었어요. 이불 끝에는 오늘 밤도 눈나라가 기다리고 있을 거예요. 잘 자, 하윤아.",
+     "en": "Hayun had fallen asleep all by herself. At the end of the blanket, Snow Land will be waiting again tonight. Good night, Hayun.",
+     "image": "/media/pages/hayun-penguin-sleep/p08.jpg",
+     "audio": {
+      "src": "/media/audio/hayun-penguin-sleep-p8.mp3",
+      "duration": 12.75,
+      "sentences": [
+       {
+        "text": "하윤이는 혼자서도 새근새근 잠이 들었어요.",
+        "start": 0.15,
+        "end": 4.69
+       },
+       {
+        "text": "이불 끝에는 오늘 밤도 눈나라가 기다리고 있을 거예요.",
+        "start": 5.29,
+        "end": 10.38
+       },
+       {
+        "text": "잘 자, 하윤아.",
+        "start": 10.98,
+        "end": 12.6
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "seojun-panda-birthday",
+   "title_ko": "서준이의 여섯 살 생일",
+   "subtitle_ko": "풍선이 돌아왔어",
+   "mood_ko": "생일·축하",
+   "title_en": "Seojun's Sixth Birthday",
+   "one_line": "Six candles, a mint balloon, a panda friend, and a grandma who hides the balloon string behind her back.",
+   "creatures": [
+    "panda",
+    "grandma"
+   ],
+   "themes": [
+    "a birthday",
+    "birthday",
+    "balloon",
+    "cake",
+    "candles",
+    "six years old",
+    "grandma",
+    "celebration"
+   ],
+   "settings": [
+    "home"
+   ],
+   "colors": [
+    "mint",
+    "red"
+   ],
+   "cover": "/media/covers/seojun-panda-birthday.webp",
+   "cover_page": "/media/pages/seojun-panda-birthday/p00.jpg",
+   "end_page": "/media/pages/seojun-panda-birthday/p09.jpg",
+   "title_audio": {
+    "src": "/media/audio/seojun-panda-birthday-p0.mp3",
+    "duration": 2.32
+   },
+   "narration_minutes": 1.9,
+   "created_at": "2026-10-04T05:58:33",
+   "pages": [
+    {
+     "n": 1,
+     "ko": "“서준아, 일어나렴. 오늘은 여섯 살 생일이란다!” 할머니가 어깨를 토닥였어요. 눈을 떠 보니 민트색 풍선이 둥실 떠 있었어요. “우아, 내 풍선이다!”",
+     "en": "\"Seojun, wake up. Today is your sixth birthday!\" Grandma patted his shoulder. He opened his eyes, and a mint-green balloon was floating there. \"Wow, my balloon!\"",
+     "image": "/media/pages/seojun-panda-birthday/p01.jpg",
+     "audio": {
+      "src": "/media/audio/seojun-panda-birthday-p1.mp3",
+      "duration": 14.91,
+      "sentences": [
+       {
+        "text": "“서준아, 일어나렴. 오늘은 여섯 살 생일이란다!”",
+        "start": 0.15,
+        "end": 4.25
+       },
+       {
+        "text": "할머니가 어깨를 토닥였어요.",
+        "start": 4.6,
+        "end": 8.08
+       },
+       {
+        "text": "눈을 떠 보니 민트색 풍선이 둥실 떠 있었어요.",
+        "start": 8.43,
+        "end": 12.43
+       },
+       {
+        "text": "“우아, 내 풍선이다!”",
+        "start": 12.78,
+        "end": 14.76
+       }
+      ]
+     }
+    },
+    {
+     "n": 2,
+     "ko": "판다 친구도 축하하러 왔어요. 서준이는 빨간 풍선을 판다에게 건넸어요. “판다야, 꼭 잡아! 놓치면 하늘로 날아가 버려.” 판다가 끈을 꼭 쥐었어요.",
+     "en": "Panda came to celebrate too. Seojun handed Panda a red balloon. \"Hold on tight, Panda! If you let go, it flies off into the sky.\" Panda gripped the string.",
+     "image": "/media/pages/seojun-panda-birthday/p02.jpg",
+     "audio": {
+      "src": "/media/audio/seojun-panda-birthday-p2.mp3",
+      "duration": 15.11,
+      "sentences": [
+       {
+        "text": "판다 친구도 축하하러 왔어요.",
+        "start": 0.15,
+        "end": 2.89
+       },
+       {
+        "text": "서준이는 빨간 풍선을 판다에게 건넸어요.",
+        "start": 3.24,
+        "end": 7.48
+       },
+       {
+        "text": "“판다야, 꼭 잡아! 놓치면 하늘로 날아가 버려.”",
+        "start": 7.83,
+        "end": 12.39
+       },
+       {
+        "text": "판다가 끈을 꼭 쥐었어요.",
+        "start": 12.74,
+        "end": 14.96
+       }
+      ]
+     }
+    },
+    {
+     "n": 3,
+     "ko": "“할머니도 한번 잡아 보세요!” 판다가 풍선 끈을 할머니에게 건넸어요. 할머니 눈이 장난스럽게 반짝였어요. 무슨 생각을 하시는 걸까요?",
+     "en": "\"Grandma, you try holding it!\" Panda passed the string to Grandma. Grandma's eyes twinkled with mischief. What was she up to?",
+     "image": "/media/pages/seojun-panda-birthday/p03.jpg",
+     "audio": {
+      "src": "/media/audio/seojun-panda-birthday-p3.mp3",
+      "duration": 12.63,
+      "sentences": [
+       {
+        "text": "“할머니도 한번 잡아 보세요!”",
+        "start": 0.15,
+        "end": 2.21
+       },
+       {
+        "text": "판다가 풍선 끈을 할머니에게 건넸어요.",
+        "start": 2.56,
+        "end": 6.02
+       },
+       {
+        "text": "할머니 눈이 장난스럽게 반짝였어요.",
+        "start": 6.37,
+        "end": 9.71
+       },
+       {
+        "text": "무슨 생각을 하시는 걸까요?",
+        "start": 10.06,
+        "end": 12.48
+       }
+      ]
+     }
+    },
+    {
+     "n": 4,
+     "ko": "할머니가 끈을 등 뒤에 쏙 숨겼어요. “어디 갔을까? 풍선 끈이 사라졌네!” 서준이는 할머니 뒤를 요리조리 쫓아다녔어요. “할머니, 다 보여요!”",
+     "en": "Grandma tucked the string behind her back. \"Where did it go? The balloon string has vanished!\" Seojun chased her round and round. \"Grandma, I can see it!\"",
+     "image": "/media/pages/seojun-panda-birthday/p04.jpg",
+     "audio": {
+      "src": "/media/audio/seojun-panda-birthday-p4.mp3",
+      "duration": 13.61,
+      "sentences": [
+       {
+        "text": "할머니가 끈을 등 뒤에 쏙 숨겼어요.",
+        "start": 0.15,
+        "end": 2.95
+       },
+       {
+        "text": "“어디 갔을까? 풍선 끈이 사라졌네!”",
+        "start": 3.3,
+        "end": 6.32
+       },
+       {
+        "text": "서준이는 할머니 뒤를 요리조리 쫓아다녔어요.",
+        "start": 6.67,
+        "end": 11.25
+       },
+       {
+        "text": "“할머니, 다 보여요!”",
+        "start": 11.6,
+        "end": 13.46
+       }
+      ]
+     }
+    },
+    {
+     "n": 5,
+     "ko": "“나도 잡고 싶어요, 할머니.” 서준이가 빈손을 쏙 내밀었어요. 할머니가 웃으며 말했어요. “그럼, 오늘의 주인공이 잡아야지.”",
+     "en": "\"I want to hold it too, Grandma.\" Seojun held out his empty hand. Grandma smiled. \"Of course. Today's star should hold it.\"",
+     "image": "/media/pages/seojun-panda-birthday/p05.jpg",
+     "audio": {
+      "src": "/media/audio/seojun-panda-birthday-p5.mp3",
+      "duration": 12.01,
+      "sentences": [
+       {
+        "text": "“나도 잡고 싶어요, 할머니.”",
+        "start": 0.15,
+        "end": 2.37
+       },
+       {
+        "text": "서준이가 빈손을 쏙 내밀었어요.",
+        "start": 2.72,
+        "end": 6
+       },
+       {
+        "text": "할머니가 웃으며 말했어요.",
+        "start": 6.35,
+        "end": 8.83
+       },
+       {
+        "text": "“그럼, 오늘의 주인공이 잡아야지.”",
+        "start": 9.18,
+        "end": 11.86
+       }
+      ]
+     }
+    },
+    {
+     "n": 6,
+     "ko": "서준이는 민트색 풍선을 생일상에 꼭 묶었어요. 판다가 끈을 잡아 주고, 할머니가 매듭을 당겨 주었지요. 이제 풍선은 날아가지 않을 거예요.",
+     "en": "Seojun tied the mint balloon to the birthday table. Panda held the string, and Grandma pulled the knot tight. Now the balloon wouldn't fly away.",
+     "image": "/media/pages/seojun-panda-birthday/p06.jpg",
+     "audio": {
+      "src": "/media/audio/seojun-panda-birthday-p6.mp3",
+      "duration": 13.82,
+      "sentences": [
+       {
+        "text": "서준이는 민트색 풍선을 생일상에 꼭 묶었어요.",
+        "start": 0.15,
+        "end": 4.75
+       },
+       {
+        "text": "판다가 끈을 잡아 주고, 할머니가 매듭을 당겨 주었지요.",
+        "start": 5.1,
+        "end": 10.1
+       },
+       {
+        "text": "이제 풍선은 날아가지 않을 거예요.",
+        "start": 10.45,
+        "end": 13.67
+       }
+      ]
+     }
+    },
+    {
+     "n": 7,
+     "ko": "저녁이 되자 케이크에 촛불 여섯 개가 켜졌어요. “생일 축하합니다!” 할머니와 판다가 노래했어요. 서준이는 볼에 바람을 가득 모아 후우우!",
+     "en": "In the evening, six candles were lit on the cake. \"Happy birthday to you!\" sang Grandma and Panda. Seojun puffed up his cheeks and blew. Whoooosh!",
+     "image": "/media/pages/seojun-panda-birthday/p07.jpg",
+     "audio": {
+      "src": "/media/audio/seojun-panda-birthday-p7.mp3",
+      "duration": 13.15,
+      "sentences": [
+       {
+        "text": "저녁이 되자 케이크에 촛불 여섯 개가 켜졌어요.",
+        "start": 0.15,
+        "end": 4.03
+       },
+       {
+        "text": "“생일 축하합니다!”",
+        "start": 4.38,
+        "end": 6.04
+       },
+       {
+        "text": "할머니와 판다가 노래했어요.",
+        "start": 6.39,
+        "end": 8.95
+       },
+       {
+        "text": "서준이는 볼에 바람을 가득 모아 후우우!",
+        "start": 9.3,
+        "end": 13
+       }
+      ]
+     }
+    },
+    {
+     "n": 8,
+     "ko": "서준이는 첫 번째 케이크 조각을 할머니께 드렸어요. “할머니, 같이 먹어요.” “아이고, 우리 서준이 다 컸네.” 여섯 살 생일은 달콤하게 저물었답니다.",
+     "en": "Seojun gave the first slice of cake to Grandma. \"Grandma, let's eat it together.\" \"My, my, our Seojun is all grown up.\" The sixth birthday ended as sweet as cake.",
+     "image": "/media/pages/seojun-panda-birthday/p08.jpg",
+     "audio": {
+      "src": "/media/audio/seojun-panda-birthday-p8.mp3",
+      "duration": 14.15,
+      "sentences": [
+       {
+        "text": "서준이는 첫 번째 케이크 조각을 할머니께 드렸어요.",
+        "start": 0.15,
+        "end": 4.29
+       },
+       {
+        "text": "“할머니, 같이 먹어요.”",
+        "start": 4.64,
+        "end": 7.16
+       },
+       {
+        "text": "“아이고, 우리 서준이 다 컸네.”",
+        "start": 7.51,
+        "end": 9.97
+       },
+       {
+        "text": "여섯 살 생일은 달콤하게 저물었답니다.",
+        "start": 10.32,
+        "end": 14
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "doyun-dino-teeth",
+   "title_ko": "공룡의 칫솔은 어디로",
+   "subtitle_ko": "칫솔, 출발! 발은 멈춰!",
+   "mood_ko": "양치하기·웃음",
+   "title_en": "Where Did the Dinosaur's Toothbrush Go?",
+   "one_line": "A dinosaur who hates brushing wears the toothbrush as a hat, until Doyun shows him scrub-a-dub is more fun together.",
+   "creatures": [
+    "dinosaur",
+    "dino"
+   ],
+   "themes": [
+    "brushing teeth",
+    "toothbrush",
+    "teeth",
+    "hat",
+    "copying",
+    "doing it together",
+    "laughing"
+   ],
+   "settings": [
+    "forest",
+    "woods"
+   ],
+   "colors": [
+    "green",
+    "blue"
+   ],
+   "cover": "/media/covers/doyun-dino-teeth.webp",
+   "cover_page": "/media/pages/doyun-dino-teeth/p00.jpg",
+   "end_page": "/media/pages/doyun-dino-teeth/p09.jpg",
+   "title_audio": {
+    "src": "/media/audio/doyun-dino-teeth-p0.mp3",
+    "duration": 2.7
+   },
+   "narration_minutes": 1.7,
+   "created_at": "2026-10-06T12:30:00",
+   "pages": [
+    {
+     "n": 1,
+     "ko": "숲에서 놀던 도윤이가 통나무를 훌쩍 넘었어요. 공룡도 쿵쿵 따라왔지요. 그루터기 위에는 엄마가 챙겨 둔 칫솔과 물컵이 기다리고 있었어요.",
+     "en": "Doyun was playing in the forest and hopped over a log. The dinosaur came stomping after him. On the tree stump, the toothbrushes and a cup of water Mom had packed were waiting.",
+     "image": "/media/pages/doyun-dino-teeth/p01.jpg",
+     "audio": {
+      "src": "/media/audio/doyun-dino-teeth-p1.mp3",
+      "duration": 13.76,
+      "sentences": [
+       {
+        "text": "숲에서 놀던 도윤이가 통나무를 훌쩍 넘었어요.",
+        "start": 0.15,
+        "end": 5.03
+       },
+       {
+        "text": "공룡도 쿵쿵 따라왔지요.",
+        "start": 5.38,
+        "end": 7.66
+       },
+       {
+        "text": "그루터기 위에는 엄마가 챙겨 둔 칫솔과 물컵이 기다리고 있었어요.",
+        "start": 8.01,
+        "end": 13.61
+       }
+      ]
+     }
+    },
+    {
+     "n": 2,
+     "ko": "“너도 이 닦자!” 도윤이가 파란 칫솔을 내밀었어요. 그런데 공룡은 입을 꾹 다물더니, 통나무 너머로 후다닥 숨어 버렸어요.",
+     "en": "\"Let's brush our teeth, you too!\" Doyun held out the blue toothbrush. But the dinosaur clamped its mouth shut and scurried off to hide behind the log.",
+     "image": "/media/pages/doyun-dino-teeth/p02.jpg",
+     "audio": {
+      "src": "/media/audio/doyun-dino-teeth-p2.mp3",
+      "duration": 11.58,
+      "sentences": [
+       {
+        "text": "“너도 이 닦자!”",
+        "start": 0.15,
+        "end": 1.29
+       },
+       {
+        "text": "도윤이가 파란 칫솔을 내밀었어요.",
+        "start": 1.64,
+        "end": 5.08
+       },
+       {
+        "text": "그런데 공룡은 입을 꾹 다물더니, 통나무 너머로 후다닥 숨어 버렸어요.",
+        "start": 5.43,
+        "end": 11.43
+       }
+      ]
+     }
+    },
+    {
+     "n": 3,
+     "ko": "잠시 뒤, 공룡이 칫솔을 머리에 얹고 나타났어요. “이건 내 모자야!” 도윤이가 깔깔 웃었어요. “아니야, 칫솔은 입에 쏙 넣는 거야.”",
+     "en": "A moment later, the dinosaur came back with the toothbrush on its head. \"This is my hat!\" Doyun giggled. \"No, a toothbrush goes in your mouth.\"",
+     "image": "/media/pages/doyun-dino-teeth/p03.jpg",
+     "audio": {
+      "src": "/media/audio/doyun-dino-teeth-p3.mp3",
+      "duration": 12.39,
+      "sentences": [
+       {
+        "text": "잠시 뒤, 공룡이 칫솔을 머리에 얹고 나타났어요.",
+        "start": 0.15,
+        "end": 4.87
+       },
+       {
+        "text": "“이건 내 모자야!”",
+        "start": 5.22,
+        "end": 6.36
+       },
+       {
+        "text": "도윤이가 깔깔 웃었어요.",
+        "start": 6.71,
+        "end": 9.07
+       },
+       {
+        "text": "“아니야, 칫솔은 입에 쏙 넣는 거야.”",
+        "start": 9.42,
+        "end": 12.24
+       }
+      ]
+     }
+    },
+    {
+     "n": 4,
+     "ko": "공룡은 칫솔을 흔들며 쿵쿵 행진했어요. 나뭇잎이 우수수 쏟아져 공룡 코에 착 붙었지요. 이 닦기 싫어서 자꾸만 딴청이에요.",
+     "en": "The dinosaur waved the toothbrush and marched, stomp, stomp. Leaves came showering down and stuck to its nose. It kept finding anything to do instead of brushing.",
+     "image": "/media/pages/doyun-dino-teeth/p04.jpg",
+     "audio": {
+      "src": "/media/audio/doyun-dino-teeth-p4.mp3",
+      "duration": 12.64,
+      "sentences": [
+       {
+        "text": "공룡은 칫솔을 흔들며 쿵쿵 행진했어요.",
+        "start": 0.15,
+        "end": 4.09
+       },
+       {
+        "text": "나뭇잎이 우수수 쏟아져 공룡 코에 착 붙었지요.",
+        "start": 4.44,
+        "end": 8.76
+       },
+       {
+        "text": "이 닦기 싫어서 자꾸만 딴청이에요.",
+        "start": 9.11,
+        "end": 12.49
+       }
+      ]
+     }
+    },
+    {
+     "n": 5,
+     "ko": "도윤이가 코에 붙은 잎을 떼어 주었어요. “사실 나도 양치가 귀찮았어. 그래도 같이 하면 재밌을 거야.” 도윤이가 초록 칫솔을 집었어요.",
+     "en": "Doyun picked the leaves off the dinosaur's nose. \"Actually, I didn't like brushing either. But it'll be fun if we do it together.\" Doyun picked up the green toothbrush.",
+     "image": "/media/pages/doyun-dino-teeth/p05.jpg",
+     "audio": {
+      "src": "/media/audio/doyun-dino-teeth-p5.mp3",
+      "duration": 11.56,
+      "sentences": [
+       {
+        "text": "도윤이가 코에 붙은 잎을 떼어 주었어요.",
+        "start": 0.15,
+        "end": 3.65
+       },
+       {
+        "text": "“사실 나도 양치가 귀찮았어. 그래도 같이 하면 재밌을 거야.”",
+        "start": 4,
+        "end": 8.42
+       },
+       {
+        "text": "도윤이가 초록 칫솔을 집었어요.",
+        "start": 8.77,
+        "end": 11.41
+       }
+      ]
+     }
+    },
+    {
+     "n": 6,
+     "ko": "도윤이가 먼저 칫솔을 입에 쏙 넣었어요. 위아래로 치카치카, 앞뒤로 치카치카. 공룡이 눈을 동그랗게 뜨고 그대로 따라 했어요.",
+     "en": "Doyun put the toothbrush in his mouth first. Up and down, scrub-a-dub. Back and forth, scrub-a-dub. The dinosaur's eyes went wide, and it copied him exactly.",
+     "image": "/media/pages/doyun-dino-teeth/p06.jpg",
+     "audio": {
+      "src": "/media/audio/doyun-dino-teeth-p6.mp3",
+      "duration": 12.56,
+      "sentences": [
+       {
+        "text": "도윤이가 먼저 칫솔을 입에 쏙 넣었어요.",
+        "start": 0.15,
+        "end": 3.63
+       },
+       {
+        "text": "위아래로 치카치카, 앞뒤로 치카치카.",
+        "start": 3.98,
+        "end": 7.94
+       },
+       {
+        "text": "공룡이 눈을 동그랗게 뜨고 그대로 따라 했어요.",
+        "start": 8.29,
+        "end": 12.41
+       }
+      ]
+     }
+    },
+    {
+     "n": 7,
+     "ko": "“치카치카, 출발!” 이번엔 공룡이 크게 외쳤어요. 둘은 나란히 서서 구석구석 이를 닦았어요. 공룡 이빨이 숲속에서 반짝반짝 빛났어요.",
+     "en": "\"Scrub-a-dub, go!\" This time the dinosaur shouted it. Side by side they brushed every corner. The dinosaur's teeth sparkled in the forest.",
+     "image": "/media/pages/doyun-dino-teeth/p07.jpg",
+     "audio": {
+      "src": "/media/audio/doyun-dino-teeth-p7.mp3",
+      "duration": 14.51,
+      "sentences": [
+       {
+        "text": "“치카치카, 출발!”",
+        "start": 0.15,
+        "end": 1.67
+       },
+       {
+        "text": "이번엔 공룡이 크게 외쳤어요.",
+        "start": 2.02,
+        "end": 5.22
+       },
+       {
+        "text": "둘은 나란히 서서 구석구석 이를 닦았어요.",
+        "start": 5.57,
+        "end": 9.81
+       },
+       {
+        "text": "공룡 이빨이 숲속에서 반짝반짝 빛났어요.",
+        "start": 10.16,
+        "end": 14.36
+       }
+      ]
+     }
+    },
+    {
+     "n": 8,
+     "ko": "물을 머금고 대야에 퉤! 칫솔도 그루터기에 가지런히 눕혔어요. 공룡이 하얀 이를 드러내며 활짝 웃었어요. “내일도 같이 하자!”",
+     "en": "A mouthful of water, and ptooey, into the basin! They laid the toothbrushes neatly on the stump. The dinosaur grinned, showing its white teeth. \"Let's do it again tomorrow!\"",
+     "image": "/media/pages/doyun-dino-teeth/p08.jpg",
+     "audio": {
+      "src": "/media/audio/doyun-dino-teeth-p8.mp3",
+      "duration": 12.55,
+      "sentences": [
+       {
+        "text": "물을 머금고 대야에 퉤!",
+        "start": 0.15,
+        "end": 2.19
+       },
+       {
+        "text": "칫솔도 그루터기에 가지런히 눕혔어요.",
+        "start": 2.54,
+        "end": 6.38
+       },
+       {
+        "text": "공룡이 하얀 이를 드러내며 활짝 웃었어요.",
+        "start": 6.73,
+        "end": 10.49
+       },
+       {
+        "text": "“내일도 같이 하자!”",
+        "start": 10.84,
+        "end": 12.4
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "slug": "jia-rabbit-daycare",
+   "title_ko": "노랑 손수건의 하루",
+   "subtitle_ko": "그네 앞에서 다시 잡은 손",
+   "mood_ko": "어린이집 등원·포근",
+   "title_en": "The Yellow Handkerchief's Day",
+   "one_line": "Jia's first day at daycare, one yellow handkerchief, one rabbit, and a mom who comes back exactly at swing time.",
+   "creatures": [
+    "rabbit",
+    "bunny"
+   ],
+   "themes": [
+    "the first day of daycare",
+    "daycare",
+    "first day",
+    "preschool",
+    "missing mom",
+    "swing",
+    "handkerchief",
+    "saying goodbye",
+    "brave"
+   ],
+   "settings": [
+    "daycare",
+    "playground"
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "cover": "/media/covers/jia-rabbit-daycare.webp",
+   "cover_page": "/media/pages/jia-rabbit-daycare/p00.jpg",
+   "end_page": "/media/pages/jia-rabbit-daycare/p09.jpg",
+   "title_audio": {
+    "src": "/media/audio/jia-rabbit-daycare-p0.mp3",
+    "duration": 2.22
+   },
+   "narration_minutes": 1.8,
+   "created_at": "2026-10-06T12:30:00",
+   "pages": [
+    {
+     "n": 1,
+     "ko": "어린이집 문 앞에서 지아는 엄마 손을 놓지 못했어요. “엄마, 안 가면 안 돼?” 엄마가 노랑 손수건을 지아 손에 쥐여 주었어요.",
+     "en": "At the daycare door, Jia couldn't let go of Mom's hand. \"Mom, do I have to go?\" Mom put a yellow handkerchief into Jia's hand.",
+     "image": "/media/pages/jia-rabbit-daycare/p01.jpg",
+     "audio": {
+      "src": "/media/audio/jia-rabbit-daycare-p1.mp3",
+      "duration": 11.64,
+      "sentences": [
+       {
+        "text": "어린이집 문 앞에서 지아는 엄마 손을 놓지 못했어요.",
+        "start": 0.15,
+        "end": 4.31
+       },
+       {
+        "text": "“엄마, 안 가면 안 돼?”",
+        "start": 4.66,
+        "end": 6.82
+       },
+       {
+        "text": "엄마가 노랑 손수건을 지아 손에 쥐여 주었어요.",
+        "start": 7.17,
+        "end": 11.49
+       }
+      ]
+     }
+    },
+    {
+     "n": 2,
+     "ko": "“그네 탈 시간이 되면 데리러 올게.” 엄마가 손을 흔들었어요. 선생님이 문 앞에서 웃으며 기다렸어요. 지아 옆에는 토끼가 꼭 붙어 섰지요.",
+     "en": "\"I'll come get you when it's swing time.\" Mom waved. The teacher waited at the door with a smile. Next to Jia stood a rabbit, close as can be.",
+     "image": "/media/pages/jia-rabbit-daycare/p02.jpg",
+     "audio": {
+      "src": "/media/audio/jia-rabbit-daycare-p2.mp3",
+      "duration": 14.55,
+      "sentences": [
+       {
+        "text": "“그네 탈 시간이 되면 데리러 올게.”",
+        "start": 0.15,
+        "end": 3.01
+       },
+       {
+        "text": "엄마가 손을 흔들었어요.",
+        "start": 3.36,
+        "end": 5.92
+       },
+       {
+        "text": "선생님이 문 앞에서 웃으며 기다렸어요.",
+        "start": 6.27,
+        "end": 9.97
+       },
+       {
+        "text": "지아 옆에는 토끼가 꼭 붙어 섰지요.",
+        "start": 10.32,
+        "end": 14.4
+       }
+      ]
+     }
+    },
+    {
+     "n": 3,
+     "ko": "점심시간, 지아는 한 손에 손수건을 쥐고 숟가락을 들었어요. 토끼도 옆자리에서 냠냠 먹었어요. “토끼야, 너도 처음이라 떨리지?”",
+     "en": "At lunchtime, Jia held the handkerchief in one hand and a spoon in the other. The rabbit ate, nom nom, in the next seat. \"Rabbit, it's your first day too, isn't it? Are you nervous?\"",
+     "image": "/media/pages/jia-rabbit-daycare/p03.jpg",
+     "audio": {
+      "src": "/media/audio/jia-rabbit-daycare-p3.mp3",
+      "duration": 12.44,
+      "sentences": [
+       {
+        "text": "점심시간, 지아는 한 손에 손수건을 쥐고 숟가락을 들었어요.",
+        "start": 0.15,
+        "end": 5.65
+       },
+       {
+        "text": "토끼도 옆자리에서 냠냠 먹었어요.",
+        "start": 6,
+        "end": 9.12
+       },
+       {
+        "text": "“토끼야, 너도 처음이라 떨리지?”",
+        "start": 9.47,
+        "end": 12.29
+       }
+      ]
+     }
+    },
+    {
+     "n": 4,
+     "ko": "간식 시간에는 선생님이 물컵을 놓아 주었어요. 지아는 손수건을 꼭 쥐고 과자를 한 입 먹었어요. 어느새 입꼬리가 살짝 올라갔어요.",
+     "en": "At snack time, the teacher set down a cup of water. Jia squeezed the handkerchief and took a bite of a cookie. Little by little, the corners of her mouth turned up.",
+     "image": "/media/pages/jia-rabbit-daycare/p04.jpg",
+     "audio": {
+      "src": "/media/audio/jia-rabbit-daycare-p4.mp3",
+      "duration": 12.56,
+      "sentences": [
+       {
+        "text": "간식 시간에는 선생님이 물컵을 놓아 주었어요.",
+        "start": 0.15,
+        "end": 4.15
+       },
+       {
+        "text": "지아는 손수건을 꼭 쥐고 과자를 한 입 먹었어요.",
+        "start": 4.57,
+        "end": 8.97
+       },
+       {
+        "text": "어느새 입꼬리가 살짝 올라갔어요.",
+        "start": 9.39,
+        "end": 12.41
+       }
+      ]
+     }
+    },
+    {
+     "n": 5,
+     "ko": "낮잠 시간, 지아는 손수건을 쥐고 누웠어요. 토끼가 소곤소곤 말했어요. “자고 일어나면 그네 시간이야.” 지아는 스르르 눈을 감았어요.",
+     "en": "At nap time, Jia lay down holding the handkerchief. The rabbit whispered, \"When you wake up, it's swing time.\" Jia slowly closed her eyes.",
+     "image": "/media/pages/jia-rabbit-daycare/p05.jpg",
+     "audio": {
+      "src": "/media/audio/jia-rabbit-daycare-p5.mp3",
+      "duration": 14.35,
+      "sentences": [
+       {
+        "text": "낮잠 시간, 지아는 손수건을 쥐고 누웠어요.",
+        "start": 0.15,
+        "end": 4.39
+       },
+       {
+        "text": "토끼가 소곤소곤 말했어요.",
+        "start": 4.81,
+        "end": 7.97
+       },
+       {
+        "text": "“자고 일어나면 그네 시간이야.”",
+        "start": 8.39,
+        "end": 10.82
+       },
+       {
+        "text": "지아는 스르르 눈을 감았어요.",
+        "start": 11.24,
+        "end": 14.2
+       }
+      ]
+     }
+    },
+    {
+     "n": 6,
+     "ko": "드디어 그네 시간! 지아와 토끼는 나란히 그네를 탔어요. 하늘이 노랗게 물들 무렵, 반가운 목소리가 들렸어요. “지아야!”",
+     "en": "Swing time at last! Jia and the rabbit swung side by side. As the sky turned yellow, a familiar voice called, \"Jia!\"",
+     "image": "/media/pages/jia-rabbit-daycare/p06.jpg",
+     "audio": {
+      "src": "/media/audio/jia-rabbit-daycare-p6.mp3",
+      "duration": 12.16,
+      "sentences": [
+       {
+        "text": "드디어 그네 시간!",
+        "start": 0.15,
+        "end": 1.89
+       },
+       {
+        "text": "지아와 토끼는 나란히 그네를 탔어요.",
+        "start": 2.39,
+        "end": 5.65
+       },
+       {
+        "text": "하늘이 노랗게 물들 무렵, 반가운 목소리가 들렸어요. “지아야!”",
+        "start": 6.15,
+        "end": 12.01
+       }
+      ]
+     }
+    },
+    {
+     "n": 7,
+     "ko": "엄마가 정말로 그네 앞에 와 있었어요. 지아는 엄마 어깨에 볼을 폭 기댔어요. “엄마, 나 오늘 손수건이랑 다 해냈어.”",
+     "en": "Mom was really there, right in front of the swings. Jia leaned her cheek on Mom's shoulder. \"Mom, I did it all today, with my handkerchief.\"",
+     "image": "/media/pages/jia-rabbit-daycare/p07.jpg",
+     "audio": {
+      "src": "/media/audio/jia-rabbit-daycare-p7.mp3",
+      "duration": 11.38,
+      "sentences": [
+       {
+        "text": "엄마가 정말로 그네 앞에 와 있었어요.",
+        "start": 0.15,
+        "end": 3.59
+       },
+       {
+        "text": "지아는 엄마 어깨에 볼을 폭 기댔어요.",
+        "start": 4.09,
+        "end": 7.37
+       },
+       {
+        "text": "“엄마, 나 오늘 손수건이랑 다 해냈어.”",
+        "start": 7.87,
+        "end": 11.23
+       }
+      ]
+     }
+    },
+    {
+     "n": 8,
+     "ko": "저녁, 지아는 가방 옆에 손수건을 챙겨 두었어요. “내일도 그네 시간에 와?” “그럼, 꼭 갈게.” 지아는 엄마 품에서 포근히 웃었어요.",
+     "en": "That evening, Jia put the handkerchief next to her bag. \"Will you come at swing time tomorrow too?\" \"Of course. I'll be there.\" Jia smiled warmly in Mom's arms.",
+     "image": "/media/pages/jia-rabbit-daycare/p08.jpg",
+     "audio": {
+      "src": "/media/audio/jia-rabbit-daycare-p8.mp3",
+      "duration": 15.12,
+      "sentences": [
+       {
+        "text": "저녁, 지아는 가방 옆에 손수건을 챙겨 두었어요.",
+        "start": 0.15,
+        "end": 5.49
+       },
+       {
+        "text": "“내일도 그네 시간에 와?”",
+        "start": 6.09,
+        "end": 8.16
+       },
+       {
+        "text": "“그럼, 꼭 갈게.”",
+        "start": 8.76,
+        "end": 10.9
+       },
+       {
+        "text": "지아는 엄마 품에서 포근히 웃었어요.",
+        "start": 11.5,
+        "end": 14.97
+       }
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}
