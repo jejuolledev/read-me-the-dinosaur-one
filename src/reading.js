@@ -58,7 +58,7 @@ export class Reading {
     } else {
       const top = r.results.filter((x) => x.score === r.results[0].score).slice(0, 3);
       const asked = top[0].why.map((w) => w.tag).filter((t, i, a) => a.indexOf(t) === i).slice(0, 2).join(' and ');
-      speech = `I have ${top.length} books with ${asked}: ${joinAnd(top.map((b, i) => `number ${ORD[i + 1]}, ${b.title_en}, ${b.one_line.replace(/\.$/, '')}`))}. Which one?`;
+      speech = `I have ${top.length} books with ${asked}: ${joinAnd(top.map((b, i) => `number ${ORD[i + 1]}, ${b.title_en}, ${b.one_line.replace(/\.$/, '').replace(/^(A|An|The) /, (m) => m.toLowerCase())}`))}. Which one?`;
       this.candidates = top;
     }
     return { ...r, speech, decided: r.results.length === 1 || (r.results.length > 1 && r.results[0].score > r.results[1].score + 1.5) };
