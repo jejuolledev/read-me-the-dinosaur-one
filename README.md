@@ -61,14 +61,14 @@ Every page card also carries the original Korean text and the book's own Korean 
  └──────────────────────────────┘                └───────────────┬──────────────────────────┘
           │ GET /media/...                                        │ reads
           ▼                                                       ▼
-   data/media/pages/<slug>/p01..p08.jpg          data/books.json (11 books × 8 pages: ko, en, image, audio)
-   data/media/audio/<slug>-p<n>.mp3              data/english.mjs (hand-written English layer + tags)
+   data/media/pages/<slug>/p00..p09.jpg          data/books.json (11 books × 8 pages: ko, en, image, audio)
+   data/media/audio/<slug>-p<n>.mp3              data/english.mjs (English retelling + tags, written for this project)
    data/media/covers/<slug>.webp                 data/bookmarks.json (created at runtime, git-ignored)
 ```
 
 Alexa's part in the simulator is a **keyword router** (`plan()` in `web/app.js`): a few regular expressions decide which tool to call. No language model is called anywhere in this project. The router is deliberately dumb so that everything interesting (finding by content, the question when two books tie, counting "again", bookmarks) lives in the MCP server where a real Alexa+ would reach it through `tools/call`.
 
-The simulator shell (the small MCP client and the traffic panel) is shared with my other entry, Gotta Go. Everything else, tools, data, session logic, screen, is specific to this project.
+The simulator shell (the small MCP client and the traffic panel) and the Express/Streamable HTTP server scaffold (session map, Origin check) are shared with my other entry, Gotta Go. Everything else, tools, data, session logic, screen, is specific to this project.
 
 ## Run it
 
@@ -110,11 +110,11 @@ Errors are tool results with `isError: true` and a spoken sentence ("Nothing has
 
 - **Books:** the eleven sample books on the public shelf of [Dongwhamoa](https://dongwhamoa.com) (MoaHub, Korea), a service that makes one-of-a-kind picture books for a child. These are *sample books created by Dongwhamoa* for its shelf; their text, pictures and narration were generated with AI tools and edited by the publisher, and the child characters in them are invented. They are not books made by real customers, and no customer data is in this repository.
 - **Narration:** `data/media/audio/*.mp3` is the books' own Korean narration, synthesized with an on-device text-to-speech model by the publisher, with per-sentence timestamps.
-- **Page pictures:** rendered from the publisher's PDFs with `scripts/render-pages.swift` (PDFKit, macOS), 768 px wide JPEG.
-- **English text and tags:** `data/english.mjs` was written by hand for this project: a read-aloud English retelling of each of the 88 pages and the creature/theme/place/color tags the search uses. No translation API was used. Korean is the original.
+- **Page pictures:** rendered from the publisher's PDFs with `scripts/render-pages.swift` (PDFKit, macOS), 768 px wide JPEG: `p00` is the cover, `p01`–`p08` the eight pages, `p09` the end page (110 images for 11 books).
+- **English text and tags:** `data/english.mjs` was written for this project: a read-aloud English retelling of each of the 88 pages and the creature/theme/place/color tags the search uses, drafted with an AI writing assistant and edited by me, sentence by sentence against the Korean. No translation API is called; Korean is the original.
 - **Build:** `node scripts/build-data.mjs` merges the publisher's `manifest.json`, `texts.json` and `audio/manifest.json` with the English layer into `data/books.json` and copies the media. The output is committed (about 34 MB), so the repo runs without the source files.
 
-**License of the data:** the books (text, pictures, narration, covers) are © 2026 MoaHub / Dongwhamoa and are included here so the project can be run and judged. They are **not** covered by the MIT license of the code. Please do not redistribute them separately.
+**License of the data:** the books (text, pictures, narration, covers) are © 2026 MoaHub / Dongwhamoa and are included here so the project can be run and judged. They are **not** covered by the MIT license of the code (see `data/LICENSE-DATA`). Please do not redistribute them separately.
 
 ## What is not here (on purpose)
 
@@ -140,4 +140,4 @@ Errors are tool results with `isError: true` and a spoken sentence ("Nothing has
 
 ## License
 
-MIT for the code (see `LICENSE`). Book data: see [Data](#data-eleven-sample-picture-books).
+MIT for the code (see `LICENSE`). Book data: see [Data](#data-eleven-sample-picture-books) and `data/LICENSE-DATA`.

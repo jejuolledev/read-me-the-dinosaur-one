@@ -197,7 +197,7 @@ async function boot() {
   state.books = shelf.structuredContent.books;
   renderShelf();
   const cfg = await fetch('/api/config').then((r) => r.json());
-  $('credits').textContent = `${cfg.books} sample picture books by Dongwhamoa (MoaHub). ${cfg.about.narration} English page text written by hand for this demo.`;
+  $('credits').textContent = `${cfg.books} sample picture books by Dongwhamoa (MoaHub). ${cfg.about.narration} English page text written for this demo (AI-assisted, edited); not machine-translated.`;
   window.storyshelf = { ask, plan, state, mcp };
 }
 boot();

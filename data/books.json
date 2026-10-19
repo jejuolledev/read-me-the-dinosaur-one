@@ -1,10 +1,10 @@
 {
  "about": {
   "publisher": "Dongwhamoa (MoaHub), sample picture books shown on dongwhamoa.com",
-  "note": "Eleven sample books created by Dongwhamoa for its public shelf. Text, pictures and narration were generated with AI tools and edited by Dongwhamoa; the child characters are invented. The English page text and tags were written by hand for this project.",
+  "note": "Eleven sample books created by Dongwhamoa for its public shelf. Text, pictures and narration were generated with AI tools and edited by Dongwhamoa; the child characters are invented. The English page text and tags were written for this project (AI-assisted, edited by the publisher); no translation API is used.",
   "narration": "Korean narration synthesized with an on-device text-to-speech model; sentence timestamps come from the same pipeline.",
   "source_updated_at": "2026-10-06T13:15:01",
-  "built_at": "2026-10-19T20:30:03.001Z"
+  "built_at": "2026-10-19T21:17:58.598Z"
  },
  "books": [
   {
@@ -1226,7 +1226,7 @@
     {
      "n": 4,
      "ko": "그림자 물고기가 작게 끄덕였어요. “나는 두려움이야. 깊은 데가 무서워서 네 곁에 있고 싶었어.” 루나는 깜짝 놀랐어요. “나도 그래. 나도 깊은 데가 무서워.”",
-     "en": "The shadow fish gave a little nod. \"I'm Fear. The deep scares me, so I wanted to stay near you.\" Luna was surprised. \"Me too. I'm scared of the deep too.\"",
+     "en": "The shadow fish gave a little nod. \"I'm Little Fear. The deep scares me, so I wanted to stay near you.\" Luna was surprised. \"Me too. I'm scared of the deep too.\"",
      "image": "/media/pages/luna-ep01/p04.jpg",
      "audio": {
       "src": "/media/audio/luna-ep01-p4.mp3",
@@ -1258,7 +1258,7 @@
     {
      "n": 5,
      "ko": "“두려움아.” 루나가 처음으로 이름을 불러 주었어요. 그러자 두려움이는 스르르 작아져서 루나 곁에 바짝 붙었어요. 이상하게 가슴이 덜 콩닥거렸어요.",
-     "en": "\"Little Fear.\" Luna said its name out loud for the first time. And Fear shrank down small and snuggled right up next to her. Strangely, her heart thumped a little less.",
+     "en": "\"Little Fear.\" Luna said its name out loud for the first time. And Little Fear shrank down small and snuggled right up next to her. Strangely, her heart thumped a little less.",
      "image": "/media/pages/luna-ep01/p05.jpg",
      "audio": {
       "src": "/media/audio/luna-ep01-p5.mp3",
@@ -1339,7 +1339,7 @@
     {
      "n": 8,
      "ko": "바다 밑에는 무지갯빛 조개껍데기가 반짝이고 있었어요. “와, 예쁘다!” 루나는 두려움이를 꼭 안아 주었어요. 두려움이와 함께라서 여기까지 올 수 있었답니다.",
-     "en": "At the bottom of the sea, a rainbow seashell was shining. \"Wow, it's beautiful!\" Luna hugged Little Fear tight. She had made it all the way here because Fear came along.",
+     "en": "At the bottom of the sea, a rainbow seashell was shining. \"Wow, it's beautiful!\" Luna hugged Little Fear tight. She had made it all the way here because Little Fear came along.",
      "image": "/media/pages/luna-ep01/p08.jpg",
      "audio": {
       "src": "/media/audio/luna-ep01-p8.mp3",

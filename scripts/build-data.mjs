@@ -1,6 +1,6 @@
 // Builds data/books.json and copies the media the server serves, from Dongwhamoa's static sample-book files.
 //   source: <STORYMOA_STORIES>/manifest.json, texts.json, audio/manifest.json, audio/<slug>/p*.mp3, thumbnails/<slug>.w640.webp
-//   plus:   data/english.mjs (hand-written English layer) and data/media/pages/<slug>/p00..p09.jpg (scripts/render-pages.swift)
+//   plus:   data/english.mjs (English retelling + tags, written for this project) and data/media/pages/<slug>/p00..p09.jpg (scripts/render-pages.swift)
 // Nothing here calls a network or a model. Run once; the output is committed so the repo runs on its own.
 import fs from 'node:fs';
 import path from 'node:path';
@@ -9,7 +9,7 @@ import english from '../data/english.mjs';
 
 const HERE = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(HERE, '..');
-const SRC = process.env.STORYMOA_STORIES || '/Users/ollekil/Desktop/Moahub-Labs/webs/Moahub-Services/storymoa/public/stories';
+const SRC = process.env.STORYMOA_STORIES || path.resolve(HERE, '../source'); // the publisher's export folder (not in the repo)
 const read = (p) => JSON.parse(fs.readFileSync(p, 'utf8'));
 
 const manifest = read(path.join(SRC, 'manifest.json'));
@@ -70,7 +70,7 @@ for (const m of manifest.stories) {
 const out = {
   about: {
     publisher: 'Dongwhamoa (MoaHub), sample picture books shown on dongwhamoa.com',
-    note: 'Eleven sample books created by Dongwhamoa for its public shelf. Text, pictures and narration were generated with AI tools and edited by Dongwhamoa; the child characters are invented. The English page text and tags were written by hand for this project.',
+    note: 'Eleven sample books created by Dongwhamoa for its public shelf. Text, pictures and narration were generated with AI tools and edited by Dongwhamoa; the child characters are invented. The English page text and tags were written for this project (AI-assisted, edited by the publisher); no translation API is used.',
     narration: 'Korean narration synthesized with an on-device text-to-speech model; sentence timestamps come from the same pipeline.',
     source_updated_at: manifest.updated_at,
     built_at: new Date().toISOString(),
